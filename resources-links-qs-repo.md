@@ -82,11 +82,11 @@
 
 * [101-rbac-builtinrole-resourcegroup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-rbac-builtinrole-resourcegroup)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
-* [subscription-level-deployments](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments)
+* [subscription-level-deployments\subscription-role-assigment](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments\subscription-role-assigment)
 
 ## Microsoft.Authorization/roleDefinitions
 
-* [subscription-level-deployments](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments)
+* [subscription-level-deployments\create-role-def](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments\create-role-def)
 
 ## Microsoft.Automation/automationAccounts
 
@@ -275,7 +275,7 @@
 * [elasticsearch-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/elasticsearch-vmss)
 * [glassfish-on-suse](https://github.com/Azure/azure-quickstart-templates/tree/master/glassfish-on-suse)
 * [haproxy-redundant-floatingip-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/haproxy-redundant-floatingip-ubuntu)
-* [IaaS-Story](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story)
+* [IaaS-Story\11-MultiNIC](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story\11-MultiNIC)
 * [iis-2vm-sql-1vm](https://github.com/Azure/azure-quickstart-templates/tree/master/iis-2vm-sql-1vm)
 * [intel-lustre-client-server](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-client-server)
 * [intel-lustre-clients-on-centos](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-clients-on-centos)
@@ -517,7 +517,8 @@
 * [haproxy-redundant-floatingip-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/haproxy-redundant-floatingip-ubuntu)
 * [hazelcast-vm-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/hazelcast-vm-cluster)
 * [hazelcast-windows-vm-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/hazelcast-windows-vm-cluster)
-* [IaaS-Story](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story)
+* [IaaS-Story\03-Static-public-IP](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story\03-Static-public-IP)
+* [IaaS-Story\11-MultiNIC](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story\11-MultiNIC)
 * [iis-2vm-sql-1vm](https://github.com/Azure/azure-quickstart-templates/tree/master/iis-2vm-sql-1vm)
 * [intel-lustre-client-server](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-client-server)
 * [intel-lustre-clients-on-centos](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-clients-on-centos)
@@ -751,7 +752,7 @@
 * [eset-vm-extension](https://github.com/Azure/azure-quickstart-templates/tree/master/eset-vm-extension)
 * [ethereum-cpp-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/ethereum-cpp-on-ubuntu)
 * [ethereum-studio-docker-standalone-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/ethereum-studio-docker-standalone-ubuntu)
-* [glassfish-on-suse](https://github.com/Azure/azure-quickstart-templates/tree/master/glassfish-on-suse)
+* [glassfish-on-suse\nestedtemplates](https://github.com/Azure/azure-quickstart-templates/tree/master/glassfish-on-suse\nestedtemplates)
 * [gluster-file-system](https://github.com/Azure/azure-quickstart-templates/tree/master/gluster-file-system)
 * [go-ethereum-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/go-ethereum-on-ubuntu)
 * [go-expanse-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/go-expanse-on-ubuntu)
@@ -1875,7 +1876,8 @@
 * [haproxy-redundant-floatingip-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/haproxy-redundant-floatingip-ubuntu)
 * [hazelcast-vm-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/hazelcast-vm-cluster)
 * [hazelcast-windows-vm-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/hazelcast-windows-vm-cluster)
-* [IaaS-Story](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story)
+* [IaaS-Story\03-Static-public-IP](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story\03-Static-public-IP)
+* [IaaS-Story\11-MultiNIC](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story\11-MultiNIC)
 * [iis-2vm-sql-1vm](https://github.com/Azure/azure-quickstart-templates/tree/master/iis-2vm-sql-1vm)
 * [intel-lustre-client-server](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-client-server)
 * [intel-lustre-clients-on-centos](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-clients-on-centos)
@@ -2393,7 +2395,7 @@
 * [haproxy-redundant-floatingip-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/haproxy-redundant-floatingip-ubuntu)
 * [hazelcast-vm-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/hazelcast-vm-cluster)
 * [hazelcast-windows-vm-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/hazelcast-windows-vm-cluster)
-* [IaaS-Story](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story)
+* [IaaS-Story\03-Static-public-IP](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story\03-Static-public-IP)
 * [iis-2vm-sql-1vm](https://github.com/Azure/azure-quickstart-templates/tree/master/iis-2vm-sql-1vm)
 * [intel-lustre-client-server](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-client-server)
 * [intel-lustre-clients-on-centos](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-clients-on-centos)
@@ -2813,7 +2815,7 @@
 * [hdInsight-apache-spark](https://github.com/Azure/azure-quickstart-templates/tree/master/hdInsight-apache-spark)
 * [hdinsight-genomics-adam](https://github.com/Azure/azure-quickstart-templates/tree/master/hdinsight-genomics-adam)
 * [hdinsight-linux-run-script-action](https://github.com/Azure/azure-quickstart-templates/tree/master/hdinsight-linux-run-script-action)
-* [IaaS-Story](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story)
+* [IaaS-Story\03-Static-public-IP](https://github.com/Azure/azure-quickstart-templates/tree/master/IaaS-Story\03-Static-public-IP)
 * [iis-2vm-sql-1vm](https://github.com/Azure/azure-quickstart-templates/tree/master/iis-2vm-sql-1vm)
 * [iomad-cluster-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/iomad-cluster-ubuntu)
 * [iomad-singlevm-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/iomad-singlevm-ubuntu)
@@ -3268,7 +3270,7 @@
 * [splunk-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/splunk-on-ubuntu)
 * [sql-server-2014-alwayson-existing-vnet-and-ad](https://github.com/Azure/azure-quickstart-templates/tree/master/sql-server-2014-alwayson-existing-vnet-and-ad)
 * [sqlvm-alwayson-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/sqlvm-alwayson-cluster)
-* [subscription-level-deployments](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments)
+* [subscription-level-deployments\create-rg-lock-role-assignment](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments\create-rg-lock-role-assignment)
 * [tfs-dual-server](https://github.com/Azure/azure-quickstart-templates/tree/master/tfs-dual-server)
 * [traffic-manager-application-gateway-demo-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/traffic-manager-application-gateway-demo-setup)
 * [traffic-manager-demo-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/traffic-manager-demo-setup)
@@ -3281,7 +3283,7 @@
 
 ## Microsoft.Resources/resourceGroups
 
-* [subscription-level-deployments](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments)
+* [subscription-level-deployments\create-rg-lock-role-assignment](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments\create-rg-lock-role-assignment)
 
 ## Microsoft.Scheduler/jobCollections
 
