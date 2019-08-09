@@ -303,6 +303,14 @@
 
 * [101-sig-image-version-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sig-image-version-create)
 
+## Microsoft.Compute/HostGroups
+
+* [201-vm-dedicated-hosts](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-dedicated-hosts)
+
+## Microsoft.Compute/Hostgroups/hosts
+
+* [201-vm-dedicated-hosts](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-dedicated-hosts)
+
 ## Microsoft.Compute/images
 
 * [101-vm-from-user-image](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-from-user-image)
@@ -326,6 +334,7 @@
 * [101-recovery-services-create-vm-and-configure-backup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-recovery-services-create-vm-and-configure-backup)
 * [101-spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker)
 * [101-spinnaker-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker-existing-vnet)
+* [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
 * [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
 * [101-vm-automatic-static-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-automatic-static-ip)
@@ -1161,6 +1170,7 @@
 * [101-cosmosdb-mongodb](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-mongodb)
 * [101-cosmosdb-sql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql)
 * [101-cosmosdb-table](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-table)
+* [201-cosmosdb-advanced-threat-protection-create-account](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cosmosdb-advanced-threat-protection-create-account)
 * [201-documentdb-webapp](https://github.com/Azure/azure-quickstart-templates/tree/master/201-documentdb-webapp)
 * [301-web-app-sql-docdb-search](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-sql-docdb-search)
 * [jenkins-cicd-container](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-cicd-container)
@@ -1297,6 +1307,7 @@
 * [101-hdinsight-hbase-replication-two-vnets-same-region](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-hbase-replication-two-vnets-same-region)
 * [101-hdinsight-interactive-hive](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-interactive-hive)
 * [101-hdinsight-kafka](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-kafka)
+* [101-hdinsight-kafka-with-edge-schema-registry](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-kafka-with-edge-schema-registry)
 * [101-hdinsight-linux-ssh-password](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-ssh-password)
 * [101-hdinsight-linux-ssh-publickey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-ssh-publickey)
 * [101-hdinsight-linux-ssh-publickey-metastore-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-ssh-publickey-metastore-vnet)
@@ -1315,6 +1326,7 @@
 
 ## Microsoft.HDInsight/clusters/applications
 
+* [101-hdinsight-kafka-with-edge-schema-registry](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-kafka-with-edge-schema-registry)
 * [101-hdinsight-linux-add-edge-node](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-add-edge-node)
 * [101-hdinsight-linux-with-edge-node](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-with-edge-node)
 
@@ -1691,6 +1703,7 @@
 * [101-recovery-services-create-vm-and-configure-backup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-recovery-services-create-vm-and-configure-backup)
 * [101-spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker)
 * [101-spinnaker-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker-existing-vnet)
+* [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
 * [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
 * [101-vm-automatic-static-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-automatic-static-ip)
@@ -2014,6 +2027,7 @@
 * [101-mutiple-vms-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mutiple-vms-with-data-management-gateway)
 * [101-security-group-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-security-group-create)
 * [101-sqlmi-new-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sqlmi-new-vnet)
+* [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
 * [101-vm-simple-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-zones)
 * [101-vm-sshkey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sshkey)
@@ -2179,6 +2193,7 @@
 * [101-site-to-site-vpn-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-site-to-site-vpn-create)
 * [101-spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker)
 * [101-spinnaker-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker-existing-vnet)
+* [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
 * [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
 * [101-vm-customdata](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-customdata)
@@ -3123,6 +3138,7 @@
 * [101-aks-advanced-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/101-aks-advanced-networking)
 * [101-aks-advanced-networking-aad](https://github.com/Azure/azure-quickstart-templates/tree/master/101-aks-advanced-networking-aad)
 * [101-automation-configuration](https://github.com/Azure/azure-quickstart-templates/tree/master/101-automation-configuration)
+* [101-backup-la-reporting](https://github.com/Azure/azure-quickstart-templates/tree/master/101-backup-la-reporting)
 * [101-data-lake-store-encryption-key-vault](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-lake-store-encryption-key-vault)
 * [101-DDoS-Attack-Prevention](https://github.com/Azure/azure-quickstart-templates/tree/master/101-DDoS-Attack-Prevention)
 * [101-mutiple-vms-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mutiple-vms-with-data-management-gateway)
@@ -3287,6 +3303,7 @@
 
 ## Microsoft.Security/advancedThreatProtectionSettings
 
+* [201-cosmosdb-advanced-threat-protection-create-account](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cosmosdb-advanced-threat-protection-create-account)
 * [201-storage-advanced-threat-protection-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-storage-advanced-threat-protection-create)
 
 ## Microsoft.ServiceBus/namespaces
@@ -3491,6 +3508,7 @@
 ## Microsoft.SqlVirtualMachine/SqlVirtualMachines
 
 * [101-sql-vm-ag-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-ag-setup)
+* [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
 
 ## Microsoft.Storage/storageAccounts
 
@@ -3512,6 +3530,7 @@
 * [101-hdinsight-hbase-replication-two-vnets-same-region](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-hbase-replication-two-vnets-same-region)
 * [101-hdinsight-interactive-hive](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-interactive-hive)
 * [101-hdinsight-kafka](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-kafka)
+* [101-hdinsight-kafka-with-edge-schema-registry](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-kafka-with-edge-schema-registry)
 * [101-hdinsight-linux-ssh-password](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-ssh-password)
 * [101-hdinsight-linux-ssh-publickey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-ssh-publickey)
 * [101-hdinsight-linux-with-edge-node](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-with-edge-node)
