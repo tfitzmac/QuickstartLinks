@@ -70,6 +70,10 @@
 
 * [101-attestation-provider-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-attestation-provider-create)
 
+## Microsoft.Authorization/locks
+
+* [subscription-level-deployments/create-rg-lock-role-assignment](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments/create-rg-lock-role-assignment)
+
 ## Microsoft.Authorization/policyAssignments
 
 * [101-azurepolicy-assign-builtinpolicy-resourcegroup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurepolicy-assign-builtinpolicy-resourcegroup)
@@ -78,8 +82,11 @@
 
 * [101-rbac-builtinrole-resourcegroup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-rbac-builtinrole-resourcegroup)
 * [101-rbac-builtinrole-virtualmachine](https://github.com/Azure/azure-quickstart-templates/tree/master/101-rbac-builtinrole-virtualmachine)
+* [101-sql-logical-server](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-logical-server)
 * [201-rbac-builtinrole-multipleVMs](https://github.com/Azure/azure-quickstart-templates/tree/master/201-rbac-builtinrole-multipleVMs)
+* [201-rbac-managedidentity-maps](https://github.com/Azure/azure-quickstart-templates/tree/master/201-rbac-managedidentity-maps)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
+* [subscription-level-deployments/create-rg-lock-role-assignment](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments/create-rg-lock-role-assignment)
 * [subscription-level-deployments/subscription-role-assigment](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments/subscription-role-assigment)
 
 ## Microsoft.Authorization/roleDefinitions
@@ -88,7 +95,6 @@
 
 ## Microsoft.Automation/automationAccounts
 
-* [101-automation-runbook-getvms](https://github.com/Azure/azure-quickstart-templates/tree/master/101-automation-runbook-getvms)
 * [asr-automation-recovery](https://github.com/Azure/azure-quickstart-templates/tree/master/asr-automation-recovery)
 * [asr-oms-monitoring](https://github.com/Azure/azure-quickstart-templates/tree/master/asr-oms-monitoring)
 * [oms-azure-resource-usage-solution](https://github.com/Azure/azure-quickstart-templates/tree/master/oms-azure-resource-usage-solution)
@@ -101,14 +107,12 @@
 
 * [oms-hyperv-replica-solution](https://github.com/Azure/azure-quickstart-templates/tree/master/oms-hyperv-replica-solution)
 
-## Microsoft.Automation/automationAccounts/credentials
+## microsoft.automation/automationAccounts/credentials
 
-* [101-automation-runbook-getvms](https://github.com/Azure/azure-quickstart-templates/tree/master/101-automation-runbook-getvms)
 * [oms-hyperv-replica-solution](https://github.com/Azure/azure-quickstart-templates/tree/master/oms-hyperv-replica-solution)
 
 ## Microsoft.Automation/automationAccounts/jobs
 
-* [101-automation-runbook-getvms](https://github.com/Azure/azure-quickstart-templates/tree/master/101-automation-runbook-getvms)
 * [oms-azure-resource-usage-solution](https://github.com/Azure/azure-quickstart-templates/tree/master/oms-azure-resource-usage-solution)
 * [oms-azure-vminventory-solution](https://github.com/Azure/azure-quickstart-templates/tree/master/oms-azure-vminventory-solution)
 
@@ -128,7 +132,6 @@
 
 ## Microsoft.Automation/automationAccounts/runbooks
 
-* [101-automation-runbook-getvms](https://github.com/Azure/azure-quickstart-templates/tree/master/101-automation-runbook-getvms)
 * [asr-automation-recovery](https://github.com/Azure/azure-quickstart-templates/tree/master/asr-automation-recovery)
 * [asr-oms-monitoring](https://github.com/Azure/azure-quickstart-templates/tree/master/asr-oms-monitoring)
 * [oms-azure-resource-usage-solution](https://github.com/Azure/azure-quickstart-templates/tree/master/oms-azure-resource-usage-solution)
@@ -186,6 +189,9 @@
 
 * [101-cdn-with-custom-origin](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cdn-with-custom-origin)
 * [201-cdn-customize](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-customize)
+* [201-cdn-with-ruleseengine-cacheoverride](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-ruleseengine-cacheoverride)
+* [201-cdn-with-ruleseengine-responseheader](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-ruleseengine-responseheader)
+* [201-cdn-with-ruleseengine-rewriteandredirect](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-ruleseengine-rewriteandredirect)
 * [201-cdn-with-storage-account](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-storage-account)
 * [201-cdn-with-web-app](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-web-app)
 * [e-shop-website-with-ilb-ase](https://github.com/Azure/azure-quickstart-templates/tree/master/e-shop-website-with-ilb-ase)
@@ -194,6 +200,9 @@
 
 * [101-cdn-with-custom-origin](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cdn-with-custom-origin)
 * [201-cdn-customize](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-customize)
+* [201-cdn-with-ruleseengine-cacheoverride](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-ruleseengine-cacheoverride)
+* [201-cdn-with-ruleseengine-responseheader](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-ruleseengine-responseheader)
+* [201-cdn-with-ruleseengine-rewriteandredirect](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-ruleseengine-rewriteandredirect)
 * [201-cdn-with-storage-account](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-storage-account)
 * [201-cdn-with-web-app](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cdn-with-web-app)
 * [e-shop-website-with-ilb-ase](https://github.com/Azure/azure-quickstart-templates/tree/master/e-shop-website-with-ilb-ase)
@@ -212,6 +221,7 @@
 
 * [101-cognitive-services-Computer-vision-API](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cognitive-services-Computer-vision-API)
 * [101-cognitive-services-translate](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cognitive-services-translate)
+* [101-cognitive-services-universalkey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cognitive-services-universalkey)
 
 ## Microsoft.Compute/availabilitySets
 
@@ -286,6 +296,7 @@
 
 ## Microsoft.Compute/disks
 
+* [101-sql-vm-new-storage-ultrassd](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage-ultrassd)
 * [201-vm-efficientip-vhd](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-efficientip-vhd)
 * [201-vm-os-disk-and-data-disk-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-os-disk-and-data-disk-existing-vnet)
 * [201-vm-specialized-vhd-new-or-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-specialized-vhd-new-or-existing-vnet)
@@ -325,6 +336,7 @@
 * [101-1vm-2nics-2subnets-1vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-1vm-2nics-2subnets-1vnet)
 * [101-acsengine-swarmmode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-acsengine-swarmmode)
 * [101-azure-database-migration-service](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-database-migration-service)
+* [101-azurefirewall-sandbox-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-sandbox-linux)
 * [101-azurefirewall-with-zones-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-with-zones-sandbox)
 * [101-hdinsight-hbase-replication-geo](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-hbase-replication-geo)
 * [101-hub-and-spoke-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hub-and-spoke-sandbox)
@@ -335,12 +347,14 @@
 * [101-spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker)
 * [101-spinnaker-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker-existing-vnet)
 * [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
+* [101-sql-vm-new-storage-ultrassd](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage-ultrassd)
 * [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
 * [101-vm-automatic-static-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-automatic-static-ip)
 * [101-vm-customdata](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-customdata)
 * [101-vm-from-sig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-from-sig)
 * [101-vm-from-user-image](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-from-user-image)
+* [101-vm-linux-Jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-Jupyterhub)
 * [101-vm-linux-serial-output](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-serial-output)
 * [101-vm-multiple-data-disk](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-data-disk)
 * [101-vm-multiple-ipconfig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-ipconfig)
@@ -351,9 +365,11 @@
 * [101-vm-simple-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel)
 * [101-vm-simple-rhel-unmanaged](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel-unmanaged)
 * [101-vm-simple-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows)
+* [101-vm-simple-windows-visualstudio2019](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows-visualstudio2019)
 * [101-vm-simple-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-zones)
 * [101-vm-sshkey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sshkey)
 * [101-vm-tags](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-tags)
+* [101-vm-ubuntu-DSVM-GPU-or-CPU](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-ubuntu-DSVM-GPU-or-CPU)
 * [101-vm-user-image-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-user-image-data-disks)
 * [101-vm-windows-copy-datadisks](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-windows-copy-datadisks)
 * [101-vm-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-data-management-gateway)
@@ -375,6 +391,7 @@
 * [201-encrypt-create-new-vm-gallery-image-managed-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-create-new-vm-gallery-image-managed-disks)
 * [201-encrypt-vmss-linux-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-vmss-linux-jumpbox)
 * [201-encrypt-vmss-windows-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-vmss-windows-jumpbox)
+* [201-IoT-IotHub-EdgeEmulator-VM](https://github.com/Azure/azure-quickstart-templates/tree/master/201-IoT-IotHub-EdgeEmulator-VM)
 * [201-jenkins-acr](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
 * [201-list-storage-keys-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/201-list-storage-keys-windows-vm)
 * [201-load-balancer-ipv6-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-load-balancer-ipv6-create)
@@ -401,8 +418,10 @@
 * [201-vm-efficientip-vhd](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-efficientip-vhd)
 * [201-vm-generalized-vhd-new-or-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-generalized-vhd-new-or-existing-vnet)
 * [201-vm-linux-dynamic-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-dynamic-data-disks)
+* [201-vm-linux-jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-jupyterhub)
 * [201-vm-monitoring-diagnostics-extension](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-monitoring-diagnostics-extension)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
+* [201-vm-msi-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-storage)
 * [201-vm-multiple-nics-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-multiple-nics-linux)
 * [201-vm-new-or-existing-conditions](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-new-or-existing-conditions)
 * [201-vm-os-disk-and-data-disk-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-os-disk-and-data-disk-existing-vnet)
@@ -414,6 +433,7 @@
 * [201-vmss-internal-loadbalancer](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-internal-loadbalancer)
 * [201-vmss-linux-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-jumpbox)
 * [201-vmss-windows-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-jumpbox)
+* [201-vm-vmss-orchestrator](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vmss-orchestrator)
 * [201-vm-vsts-agent](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vsts-agent)
 * [201-vm-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-win-iis-app-ssl)
 * [201-vm-winrm-keyvault-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-winrm-keyvault-windows)
@@ -435,6 +455,7 @@
 * [301-jenkins-vmss-blue-green](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-vmss-blue-green)
 * [301-multi-tier-loadbalancing](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-loadbalancing)
 * [301-multi-tier-service-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-service-networking)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
 * [301-vm-32-data-disks-high-iops](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-32-data-disks-high-iops)
 * [301-vm-sql-full-autobackup-autopatching-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-sql-full-autobackup-autopatching-keyvault)
 * [active-directory-new-domain](https://github.com/Azure/azure-quickstart-templates/tree/master/active-directory-new-domain)
@@ -456,12 +477,9 @@
 * [centos-singularity](https://github.com/Azure/azure-quickstart-templates/tree/master/centos-singularity)
 * [chef-ha-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-ha-cluster)
 * [chef-json-parameters-linux-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-json-parameters-linux-vm)
-* [cisco-csr-1000v](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v)
-* [cisco-csr-1000v-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-4-nic)
-* [cisco-csr-1000v-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet)
-* [cisco-csr-1000v-existing-vnet-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet-4-nic)
 * [cloudlens-moloch-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-moloch-ubuntu)
 * [cloudlens-suricata-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-suricata-ubuntu)
+* [cohesive-vns3-free-multiclient-overlay-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/cohesive-vns3-free-multiclient-overlay-linux)
 * [concourse-ci](https://github.com/Azure/azure-quickstart-templates/tree/master/concourse-ci)
 * [consul-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/consul-on-ubuntu)
 * [coreos-with-fleet-multivm](https://github.com/Azure/azure-quickstart-templates/tree/master/coreos-with-fleet-multivm)
@@ -551,7 +569,7 @@
 * [openvpn-access-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openvpn-access-server-ubuntu)
 * [pf-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/pf-freebsd-setup)
 * [phabricator-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/phabricator-on-ubuntu)
-* [php_pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php_pgsql-freebsd-setup)
+* [php-pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php-pgsql-freebsd-setup)
 * [postgresql-standalone-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/postgresql-standalone-server-ubuntu)
 * [puppet-agent-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-linux)
 * [puppet-agent-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-windows)
@@ -565,6 +583,7 @@
 * [rds-deployment-ha-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment-ha-gateway)
 * [rds-update-rdsh-collection](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-update-rdsh-collection)
 * [rhel-3tier-iaas](https://github.com/Azure/azure-quickstart-templates/tree/master/rhel-3tier-iaas)
+* [ros-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/ros-vm-windows)
 * [sap-2-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-multi-sid-apps-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-multi-sid-apps-md)
@@ -606,6 +625,7 @@
 * [two-tier-nodejsapp-migration-to-containers-on-Azure](https://github.com/Azure/azure-quickstart-templates/tree/master/two-tier-nodejsapp-migration-to-containers-on-Azure)
 * [ubuntu-apache-test-page](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-apache-test-page)
 * [ubuntu-desktop-gnome](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome)
+* [ubuntu-desktop-gnome-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome-rdp)
 * [ubuntu-desktop-xfce-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-xfce-rdp)
 * [ubuntu-netdisk-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-netdisk-setup)
 * [vertx-openjdk-apache-mysql-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/vertx-openjdk-apache-mysql-on-ubuntu)
@@ -640,6 +660,7 @@
 * [101-spinnaker-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker-existing-vnet)
 * [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
+* [101-vm-linux-Jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-Jupyterhub)
 * [101-vm-sql-existing-autobackup-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sql-existing-autobackup-update)
 * [101-vm-sql-existing-autopatching-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sql-existing-autopatching-update)
 * [101-vm-sql-existing-keyvault-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sql-existing-keyvault-update)
@@ -678,6 +699,7 @@
 * [201-vm-domain-join](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-domain-join)
 * [201-vm-domain-join-existing](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-domain-join-existing)
 * [201-vm-linux-dynamic-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-dynamic-data-disks)
+* [201-vm-linux-jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-jupyterhub)
 * [201-vm-monitoring-diagnostics-extension](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-monitoring-diagnostics-extension)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
 * [201-vm-sql-full-autobackup](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-sql-full-autobackup)
@@ -694,6 +716,7 @@
 * [301-jenkins-aks-zero-downtime-deployment](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-aks-zero-downtime-deployment)
 * [301-jenkins-aptly-spinnaker-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-aptly-spinnaker-vmss)
 * [301-jenkins-vmss-blue-green](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-vmss-blue-green)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
 * [301-vm-32-data-disks-high-iops](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-32-data-disks-high-iops)
 * [301-vm-sql-full-autobackup-autopatching-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-sql-full-autobackup-autopatching-keyvault)
 * [active-directory-new-domain](https://github.com/Azure/azure-quickstart-templates/tree/master/active-directory-new-domain)
@@ -716,6 +739,7 @@
 * [chef-json-parameters-linux-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-json-parameters-linux-vm)
 * [cloudlens-moloch-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-moloch-ubuntu)
 * [cloudlens-suricata-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-suricata-ubuntu)
+* [cohesive-vns3-free-multiclient-overlay-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/cohesive-vns3-free-multiclient-overlay-linux)
 * [concourse-ci](https://github.com/Azure/azure-quickstart-templates/tree/master/concourse-ci)
 * [consul-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/consul-on-ubuntu)
 * [coscale-dev-env](https://github.com/Azure/azure-quickstart-templates/tree/master/coscale-dev-env)
@@ -797,7 +821,7 @@
 * [openvpn-access-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openvpn-access-server-ubuntu)
 * [pf-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/pf-freebsd-setup)
 * [phabricator-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/phabricator-on-ubuntu)
-* [php_pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php_pgsql-freebsd-setup)
+* [php-pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php-pgsql-freebsd-setup)
 * [postgresql-standalone-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/postgresql-standalone-server-ubuntu)
 * [puppet-agent-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-linux)
 * [puppet-agent-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-windows)
@@ -811,6 +835,7 @@
 * [rds-deployment-ha-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment-ha-gateway)
 * [rds-update-certificate](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-update-certificate)
 * [rds-update-rdsh-collection](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-update-rdsh-collection)
+* [ros-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/ros-vm-windows)
 * [sap-2-tier-marketplace-image](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image)
 * [sap-2-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-md)
@@ -851,6 +876,7 @@
 * [two-tier-nodejsapp-migration-to-containers-on-Azure](https://github.com/Azure/azure-quickstart-templates/tree/master/two-tier-nodejsapp-migration-to-containers-on-Azure)
 * [ubuntu-apache-test-page](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-apache-test-page)
 * [ubuntu-desktop-gnome](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome)
+* [ubuntu-desktop-gnome-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome-rdp)
 * [ubuntu-desktop-xfce-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-xfce-rdp)
 * [ubuntu-netdisk-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-netdisk-setup)
 * [vertx-openjdk-apache-mysql-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/vertx-openjdk-apache-mysql-on-ubuntu)
@@ -873,6 +899,7 @@
 ## Microsoft.Compute/virtualMachineScaleSets
 
 * [101-acsengine-swarmmode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-acsengine-swarmmode)
+* [101-vmms-with-public-ip-prefix](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vmms-with-public-ip-prefix)
 * [201-decrypt-vmss-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-decrypt-vmss-linux)
 * [201-encrypt-running-vmss-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-running-vmss-linux)
 * [201-encrypt-vmss-linux-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-vmss-linux-jumpbox)
@@ -881,6 +908,7 @@
 * [201-vmss-bottle-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale)
 * [201-vmss-custom-image-existing-vnet-existing-app-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-custom-image-existing-vnet-existing-app-gateway)
 * [201-vmss-custom-script-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-custom-script-windows)
+* [201-vmss-datascience](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-datascience)
 * [201-vmss-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-existing-vnet)
 * [201-vmss-internal-loadbalancer](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-internal-loadbalancer)
 * [201-vmss-linux-customimage-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-customimage-autoscale)
@@ -903,6 +931,7 @@
 * [201-vmss-windows-webapp-dsc-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-webapp-dsc-autoscale)
 * [201-vmss-win-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-win-existing-vnet)
 * [201-vmss-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-win-iis-app-ssl)
+* [201-vm-vmss-orchestrator](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vmss-orchestrator)
 * [301-drupal8-vmss-glusterfs-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/301-drupal8-vmss-glusterfs-mysql)
 * [301-jenkins-vmss-blue-green](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-vmss-blue-green)
 * [301-multi-vmss-linux-lb-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-vmss-linux-lb-zones)
@@ -911,7 +940,7 @@
 * [couchbase](https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase)
 * [elasticsearch-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/elasticsearch-vmss)
 * [intel-lustre-clients-vmss-centos](https://github.com/Azure/azure-quickstart-templates/tree/master/intel-lustre-clients-vmss-centos)
-* [lansa-vmss-windows-autoscale-existing-db](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-existing-db)
+* [ipv6-in-vnet-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-vmss)
 * [lansa-vmss-windows-autoscale-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-sql-database)
 * [monitor-autoscale-vmss-simplemetricbased](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-autoscale-vmss-simplemetricbased)
 * [nextflow-genomics-cluster-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/nextflow-genomics-cluster-ubuntu)
@@ -949,8 +978,8 @@
 
 * [101-container-registry](https://github.com/Azure/azure-quickstart-templates/tree/master/101-container-registry)
 * [101-container-registry-geo-replication](https://github.com/Azure/azure-quickstart-templates/tree/master/101-container-registry-geo-replication)
-* [101-machine-learning-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-machine-learning-create)
 * [201-jenkins-acr](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
+* [201-machine-learning-private-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/201-machine-learning-private-ip)
 * [201-spinnaker-acr-k8s](https://github.com/Azure/azure-quickstart-templates/tree/master/201-spinnaker-acr-k8s)
 * [301-jenkins-acr-spinnaker-k8s](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-acr-spinnaker-k8s)
 * [jenkins-cicd-container](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-cicd-container)
@@ -975,13 +1004,20 @@
 * [301-jenkins-aks-zero-downtime-deployment](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-aks-zero-downtime-deployment)
 * [jenkins-cicd-container](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-cicd-container)
 
+## Microsoft.CustomProviders/associations
+
+* [101-custom-rp-existing-resource-deployments](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-existing-resource-deployments)
+
 ## Microsoft.CustomProviders/resourceProviders
 
+* [101-custom-rp-existing-resource-deployments](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-existing-resource-deployments)
 * [101-custom-rp-with-function](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-with-function)
+* [101-custom-rp-with-logicapp](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-with-logicapp)
 
-## Microsoft.CustomProviders/resourceProviders/users
+## Microsoft.CustomProviders/resourceProviders/customResources
 
 * [101-custom-rp-with-function](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-with-function)
+* [101-custom-rp-with-logicapp](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-with-logicapp)
 
 ## Microsoft.Databricks/workspaces
 
@@ -1020,6 +1056,7 @@
 ## Microsoft.DataFactory/datafactories/gateways
 
 * [101-data-factory-chained-copy-activities](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-chained-copy-activities)
+* [101-mutiple-vms-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mutiple-vms-with-data-management-gateway)
 * [101-vm-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-data-management-gateway)
 
 ## Microsoft.DataFactory/datafactories/linkedservices
@@ -1034,7 +1071,10 @@
 ## Microsoft.DataFactory/factories
 
 * [101-data-factory-v2-blob-to-blob-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-blob-copy)
+* [101-data-factory-v2-blob-to-mysql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-mysql-copy)
+* [101-data-factory-v2-blob-to-postgresql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-postgresql-copy)
 * [101-data-factory-v2-blob-to-sql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-sql-copy)
+* [101-data-factory-v2-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-create)
 * [101-data-factory-v2-onprem-sql-to-blob-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-onprem-sql-to-blob-copy)
 * [101-data-factory-v2-provision-ssis-runtime](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-provision-ssis-runtime)
 * [101-data-factory-v2-transform-using-spark](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-transform-using-spark)
@@ -1043,6 +1083,8 @@
 ## Microsoft.DataFactory/factories/datasets
 
 * [101-data-factory-v2-blob-to-blob-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-blob-copy)
+* [101-data-factory-v2-blob-to-mysql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-mysql-copy)
+* [101-data-factory-v2-blob-to-postgresql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-postgresql-copy)
 * [101-data-factory-v2-blob-to-sql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-sql-copy)
 * [101-data-factory-v2-onprem-sql-to-blob-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-onprem-sql-to-blob-copy)
 * [201-data-factory-v2-azure-sql-database-to-sql-data-warehouse-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/201-data-factory-v2-azure-sql-database-to-sql-data-warehouse-copy)
@@ -1055,6 +1097,8 @@
 ## Microsoft.DataFactory/factories/linkedservices
 
 * [101-data-factory-v2-blob-to-blob-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-blob-copy)
+* [101-data-factory-v2-blob-to-mysql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-mysql-copy)
+* [101-data-factory-v2-blob-to-postgresql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-postgresql-copy)
 * [101-data-factory-v2-blob-to-sql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-sql-copy)
 * [101-data-factory-v2-onprem-sql-to-blob-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-onprem-sql-to-blob-copy)
 * [101-data-factory-v2-transform-using-spark](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-transform-using-spark)
@@ -1063,6 +1107,8 @@
 ## Microsoft.DataFactory/factories/pipelines
 
 * [101-data-factory-v2-blob-to-blob-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-blob-copy)
+* [101-data-factory-v2-blob-to-mysql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-mysql-copy)
+* [101-data-factory-v2-blob-to-postgresql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-postgresql-copy)
 * [101-data-factory-v2-blob-to-sql-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-blob-to-sql-copy)
 * [101-data-factory-v2-onprem-sql-to-blob-copy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-onprem-sql-to-blob-copy)
 * [101-data-factory-v2-transform-using-spark](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-factory-v2-transform-using-spark)
@@ -1146,6 +1192,7 @@
 ## Microsoft.Devices/IotHubs
 
 * [101-iothub-with-consumergroup-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-iothub-with-consumergroup-create)
+* [201-IoT-IotHub-EdgeEmulator-VM](https://github.com/Azure/azure-quickstart-templates/tree/master/201-IoT-IotHub-EdgeEmulator-VM)
 * [201-timeseriesinsights-environment-payg-with-iothub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-timeseriesinsights-environment-payg-with-iothub)
 
 ## Microsoft.Devices/iotHubs/eventhubEndpoints/ConsumerGroups
@@ -1164,76 +1211,70 @@
 ## Microsoft.DocumentDB/databaseAccounts
 
 * [101-cosmosdb-cassandra](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-cassandra)
+* [101-cosmosdb-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-create)
 * [101-cosmosdb-create-account](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-create-account)
 * [101-cosmosdb-create-multi-region-account](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-create-multi-region-account)
 * [101-cosmosdb-gremlin](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-gremlin)
 * [101-cosmosdb-mongodb](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-mongodb)
 * [101-cosmosdb-sql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql)
+* [101-cosmosdb-sql-container-sprocs](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql-container-sprocs)
 * [101-cosmosdb-table](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-table)
 * [201-cosmosdb-advanced-threat-protection-create-account](https://github.com/Azure/azure-quickstart-templates/tree/master/201-cosmosdb-advanced-threat-protection-create-account)
 * [201-documentdb-webapp](https://github.com/Azure/azure-quickstart-templates/tree/master/201-documentdb-webapp)
 * [301-web-app-sql-docdb-search](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-sql-docdb-search)
 * [jenkins-cicd-container](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-cicd-container)
 
-## Microsoft.DocumentDB/databaseAccounts/apis/databases
-
-* [101-cosmosdb-gremlin](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-gremlin)
-* [101-cosmosdb-mongodb](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-mongodb)
-* [101-cosmosdb-sql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql)
-
-## Microsoft.DocumentDb/databaseAccounts/apis/databases/collections
-
-* [101-cosmosdb-mongodb](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-mongodb)
-
-## Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/settings
-
-* [101-cosmosdb-mongodb-collection-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-mongodb-collection-ru-update)
-
-## Microsoft.DocumentDb/databaseAccounts/apis/databases/containers
-
-* [101-cosmosdb-sql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql)
-
-## Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/settings
-
-* [101-cosmosdb-sql-container-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql-container-ru-update)
-
-## Microsoft.DocumentDb/databaseAccounts/apis/databases/graphs
-
-* [101-cosmosdb-gremlin](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-gremlin)
-
-## Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/settings
-
-* [101-cosmosdb-gremlin-graph-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-gremlin-graph-ru-update)
-
-## Microsoft.DocumentDB/databaseAccounts/apis/databases/settings
-
-* [101-cosmosdb-gremlin-database-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-gremlin-database-ru-update)
-* [101-cosmosdb-mongodb-database-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-mongodb-database-ru-update)
-* [101-cosmosdb-sql-database-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql-database-ru-update)
-
-## Microsoft.DocumentDB/databaseAccounts/apis/keyspaces
+## Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces
 
 * [101-cosmosdb-cassandra](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-cassandra)
 
-## Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/settings
-
-* [101-cosmosdb-cassandra-keyspace-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-cassandra-keyspace-ru-update)
-
-## Microsoft.DocumentDb/databaseAccounts/apis/keyspaces/tables
+## Microsoft.DocumentDb/databaseAccounts/cassandraKeyspaces/tables
 
 * [101-cosmosdb-cassandra](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-cassandra)
 
-## Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/settings
+## Microsoft.DocumentDB/databaseAccounts/gremlinDatabases
 
-* [101-cosmosdb-cassandra-table-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-cassandra-table-ru-update)
+* [101-cosmosdb-gremlin](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-gremlin)
 
-## Microsoft.DocumentDB/databaseAccounts/apis/tables
+## Microsoft.DocumentDb/databaseAccounts/gremlinDatabases/graphs
+
+* [101-cosmosdb-gremlin](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-gremlin)
+
+## Microsoft.DocumentDB/databaseAccounts/mongodbDatabases
+
+* [101-cosmosdb-mongodb](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-mongodb)
+
+## Microsoft.DocumentDb/databaseAccounts/mongodbDatabases/collections
+
+* [101-cosmosdb-mongodb](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-mongodb)
+
+## Microsoft.DocumentDB/databaseAccounts/sqlDatabases
+
+* [101-cosmosdb-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-create)
+* [101-cosmosdb-sql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql)
+* [101-cosmosdb-sql-container-sprocs](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql-container-sprocs)
+
+## Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers
+
+* [101-cosmosdb-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-create)
+* [101-cosmosdb-sql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql)
+* [101-cosmosdb-sql-container-sprocs](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql-container-sprocs)
+
+## Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/storedProcedures
+
+* [101-cosmosdb-sql-container-sprocs](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql-container-sprocs)
+
+## Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers
+
+* [101-cosmosdb-sql-container-sprocs](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql-container-sprocs)
+
+## Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/userDefinedFunctions
+
+* [101-cosmosdb-sql-container-sprocs](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-sql-container-sprocs)
+
+## Microsoft.DocumentDB/databaseAccounts/tables
 
 * [101-cosmosdb-table](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-table)
-
-## Microsoft.DocumentDB/databaseAccounts/apis/tables/settings
-
-* [101-cosmosdb-table-ru-update](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-table-ru-update)
 
 ## Microsoft.DomainRegistration/domains/domainOwnershipIdentifiers
 
@@ -1253,11 +1294,18 @@
 * [101-event-grid-cloudevents](https://github.com/Azure/azure-quickstart-templates/tree/master/101-event-grid-cloudevents)
 * [101-event-grid-event-hubs-handler](https://github.com/Azure/azure-quickstart-templates/tree/master/101-event-grid-event-hubs-handler)
 
+## Microsoft.EventHub/clusters
+
+* [201-eventhubs-create-cluster-namespace](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-cluster-namespace)
+* [201-eventhubs-create-cluster-namespace-eventhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-cluster-namespace-eventhub)
+
 ## Microsoft.EventHub/namespaces
 
 * [101-event-grid-event-hubs-handler](https://github.com/Azure/azure-quickstart-templates/tree/master/101-event-grid-event-hubs-handler)
 * [101-eventhubs-create-namespace-and-eventhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-eventhubs-create-namespace-and-eventhub)
 * [201-eventhub-create-namespace-geo-recoveryconfiguration](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhub-create-namespace-geo-recoveryconfiguration)
+* [201-eventhubs-create-cluster-namespace](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-cluster-namespace)
+* [201-eventhubs-create-cluster-namespace-eventhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-cluster-namespace-eventhub)
 * [201-event-hubs-create-event-hub-and-consumer-group](https://github.com/Azure/azure-quickstart-templates/tree/master/201-event-hubs-create-event-hub-and-consumer-group)
 * [201-eventhubs-create-namespace-and-enable-capture](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-namespace-and-enable-capture)
 * [201-eventhubs-create-namespace-and-enable-capture-for-adls](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-namespace-and-enable-capture-for-adls)
@@ -1281,6 +1329,7 @@
 
 * [101-event-grid-event-hubs-handler](https://github.com/Azure/azure-quickstart-templates/tree/master/101-event-grid-event-hubs-handler)
 * [101-eventhubs-create-namespace-and-eventhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-eventhubs-create-namespace-and-eventhub)
+* [201-eventhubs-create-cluster-namespace-eventhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-cluster-namespace-eventhub)
 * [201-event-hubs-create-event-hub-and-consumer-group](https://github.com/Azure/azure-quickstart-templates/tree/master/201-event-hubs-create-event-hub-and-consumer-group)
 * [201-eventhubs-create-namespace-and-enable-capture](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-namespace-and-enable-capture)
 * [201-eventhubs-create-namespace-and-enable-capture-for-adls](https://github.com/Azure/azure-quickstart-templates/tree/master/201-eventhubs-create-namespace-and-enable-capture-for-adls)
@@ -1300,6 +1349,7 @@
 
 ## Microsoft.HDInsight/clusters
 
+* [101-hdinsight-custom-ambari-db](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-custom-ambari-db)
 * [101-hdinsight-hbase-enhancedwrite](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-hbase-enhancedwrite)
 * [101-hdinsight-hbase-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-hbase-linux)
 * [101-hdinsight-hbase-linux-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-hbase-linux-vnet)
@@ -1315,6 +1365,7 @@
 * [101-hdinsight-linux-with-existing-default-storage-account](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-with-existing-default-storage-account)
 * [101-hdinsight-linux-with-existing-linked-storage-account](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-with-existing-linked-storage-account)
 * [101-hdinsight-linux-with-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-with-sql-database)
+* [101-hdinsight-minimum-tls](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-minimum-tls)
 * [101-hdinsight-rserver](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-rserver)
 * [101-hdinsight-secure-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-secure-vnet)
 * [101-hdinsight-spark-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-spark-linux)
@@ -1332,6 +1383,7 @@
 
 ## Microsoft.Insights/actionGroups
 
+* [monitor-action-groups](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-action-groups)
 * [monitor-autoscale-alert](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-autoscale-alert)
 * [monitor-autoscale-failed-alert](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-autoscale-failed-alert)
 * [monitor-servicehealth-alert](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-servicehealth-alert)
@@ -1347,7 +1399,6 @@
 * [101-DDoS-Attack-Prevention](https://github.com/Azure/azure-quickstart-templates/tree/master/101-DDoS-Attack-Prevention)
 * [201-dynamic-web-tests](https://github.com/Azure/azure-quickstart-templates/tree/master/201-dynamic-web-tests)
 * [201-insights-alertrules-servicehealth](https://github.com/Azure/azure-quickstart-templates/tree/master/201-insights-alertrules-servicehealth)
-* [201-web-app-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-sql-database)
 * [301-insights-alertrules-application-insights](https://github.com/Azure/azure-quickstart-templates/tree/master/301-insights-alertrules-application-insights)
 * [azure-governance-operations-automation](https://github.com/Azure/azure-quickstart-templates/tree/master/azure-governance-operations-automation)
 * [umbraco-cms-webapp-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-cms-webapp-redis-cache)
@@ -1361,10 +1412,9 @@
 * [201-vmss-windows-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-autoscale)
 * [201-vmss-windows-webapp-dsc-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-webapp-dsc-autoscale)
 * [201-vmss-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-win-iis-app-ssl)
-* [201-web-app-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-sql-database)
 * [301-drupal8-vmss-glusterfs-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/301-drupal8-vmss-glusterfs-mysql)
 * [azure-governance-operations-automation](https://github.com/Azure/azure-quickstart-templates/tree/master/azure-governance-operations-automation)
-* [lansa-vmss-windows-autoscale-existing-db](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-existing-db)
+* [kentico-mvc-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/kentico-mvc-environment)
 * [lansa-vmss-windows-autoscale-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-sql-database)
 * [monitor-autoscale-vmss-simplemetricbased](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-autoscale-vmss-simplemetricbased)
 * [monitor-autoscale-webappserviceplan-simplemetricbased](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-autoscale-webappserviceplan-simplemetricbased)
@@ -1376,7 +1426,10 @@
 * [101-function-app-create-dynamic](https://github.com/Azure/azure-quickstart-templates/tree/master/101-function-app-create-dynamic)
 * [101-functions-managed-identity](https://github.com/Azure/azure-quickstart-templates/tree/master/101-functions-managed-identity)
 * [101-machine-learning-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-machine-learning-create)
+* [101-webapp-linux-django](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-django)
+* [101-webapp-windows-ASPNET](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-windows-ASPNET)
 * [201-dynamic-web-tests](https://github.com/Azure/azure-quickstart-templates/tree/master/201-dynamic-web-tests)
+* [201-machine-learning-private-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/201-machine-learning-private-ip)
 * [201-web-app-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-sql-database)
 * [301-insights-alertrules-application-insights](https://github.com/Azure/azure-quickstart-templates/tree/master/301-insights-alertrules-application-insights)
 * [301-web-app-sql-docdb-search](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-sql-docdb-search)
@@ -1384,6 +1437,7 @@
 * [azure-governance-operations-automation](https://github.com/Azure/azure-quickstart-templates/tree/master/azure-governance-operations-automation)
 * [e-shop-website-with-ilb-ase](https://github.com/Azure/azure-quickstart-templates/tree/master/e-shop-website-with-ilb-ase)
 * [jenkins-cicd-webapp](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-cicd-webapp)
+* [kentico-mvc-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/kentico-mvc-environment)
 * [umbraco-cms-webapp-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-cms-webapp-redis-cache)
 * [umbraco-webapp-simple](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-webapp-simple)
 
@@ -1408,22 +1462,28 @@
 * [101-machine-learning-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-machine-learning-create)
 * [201-key-vault-secret-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-key-vault-secret-create)
 * [201-key-vault-with-logging-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-key-vault-with-logging-create)
+* [201-machine-learning-private-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/201-machine-learning-private-ip)
 * [301-jenkins-aptly-spinnaker-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-aptly-spinnaker-vmss)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
 
 ## Microsoft.KeyVault/vaults/accessPolicies
 
+* [101-data-lake-store-encryption-key-vault](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-lake-store-encryption-key-vault)
 * [101-keyvault-add-access-policy](https://github.com/Azure/azure-quickstart-templates/tree/master/101-keyvault-add-access-policy)
 * [201-api-management-create-with-keyvault-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-api-management-create-with-keyvault-ssl)
+* [sql-encryption-protector-byok](https://github.com/Azure/azure-quickstart-templates/tree/master/sql-encryption-protector-byok)
 
 ## Microsoft.KeyVault/vaults/secrets
 
 * [101-key-vault-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-key-vault-create)
 * [201-key-vault-secret-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-key-vault-secret-create)
 * [301-jenkins-aptly-spinnaker-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-aptly-spinnaker-vmss)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
 
 ## Microsoft.Kusto/clusters
 
 * [101-kusto-cluster-database](https://github.com/Azure/azure-quickstart-templates/tree/master/101-kusto-cluster-database)
+* [101-kusto-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-kusto-vnet)
 
 ## Microsoft.Kusto/clusters/databases
 
@@ -1462,6 +1522,8 @@
 
 ## Microsoft.Logic/workflows
 
+* [101-custom-rp-existing-resource-deployments](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-existing-resource-deployments)
+* [101-custom-rp-with-logicapp](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-with-logicapp)
 * [101-event-grid-cloudevents](https://github.com/Azure/azure-quickstart-templates/tree/master/101-event-grid-cloudevents)
 * [101-integrationpatterns-messagerouter-logicapp](https://github.com/Azure/azure-quickstart-templates/tree/master/101-integrationpatterns-messagerouter-logicapp)
 * [101-logic-app-and-function-app](https://github.com/Azure/azure-quickstart-templates/tree/master/101-logic-app-and-function-app)
@@ -1479,10 +1541,24 @@
 * [201-logic-app-veter-pipeline](https://github.com/Azure/azure-quickstart-templates/tree/master/201-logic-app-veter-pipeline)
 * [201-logic-app-xslt-with-params](https://github.com/Azure/azure-quickstart-templates/tree/master/201-logic-app-xslt-with-params)
 * [301-logicapps-jobscheduler](https://github.com/Azure/azure-quickstart-templates/tree/master/301-logicapps-jobscheduler)
+* [arm-template-retrieve-azure-storage-access-keys](https://github.com/Azure/azure-quickstart-templates/tree/master/arm-template-retrieve-azure-storage-access-keys)
 
 ## Microsoft.MachineLearningServices/workspaces
 
 * [101-machine-learning-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-machine-learning-create)
+* [201-machine-learning-private-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/201-machine-learning-private-ip)
+
+## Microsoft.MachineLearningServices/workspaces/computes
+
+* [201-machine-learning-private-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/201-machine-learning-private-ip)
+
+## Microsoft.ManagedIdentity/userAssignedIdentities
+
+* [201-rbac-managedidentity-maps](https://github.com/Azure/azure-quickstart-templates/tree/master/201-rbac-managedidentity-maps)
+
+## Microsoft.Maps/accounts
+
+* [201-rbac-managedidentity-maps](https://github.com/Azure/azure-quickstart-templates/tree/master/201-rbac-managedidentity-maps)
 
 ## Microsoft.Media/mediaServices
 
@@ -1511,10 +1587,13 @@
 * [201-application-gateway-webapps](https://github.com/Azure/azure-quickstart-templates/tree/master/201-application-gateway-webapps)
 * [201-vmss-ubuntu-app-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-ubuntu-app-gateway)
 * [201-vmss-windows-app-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-app-gateway)
+* [201-web-app-with-app-gateway-v2](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-with-app-gateway-v2)
 * [301-multi-tier-loadbalancing](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-loadbalancing)
 * [301-multi-tier-service-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-service-networking)
+* [ag-docs-wafv2](https://github.com/Azure/azure-quickstart-templates/tree/master/ag-docs-wafv2)
 * [application-gateway-demo-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/application-gateway-demo-setup)
 * [e-shop-website-with-ilb-ase](https://github.com/Azure/azure-quickstart-templates/tree/master/e-shop-website-with-ilb-ase)
+* [lansa-vmss-windows-autoscale-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-sql-database)
 * [sas-viya](https://github.com/Azure/azure-quickstart-templates/tree/master/sas-viya)
 
 ## Microsoft.Network/applicationSecurityGroups
@@ -1525,11 +1604,14 @@
 ## Microsoft.Network/azureFirewalls
 
 * [101-azurefirewall-create-with-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-zones)
+* [101-azurefirewall-sandbox-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-sandbox-linux)
 * [101-azurefirewall-with-zones-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-with-zones-sandbox)
 
 ## Microsoft.Network/bastionHosts
 
 * [101-azure-bastion](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion)
+* [101-azure-bastion-nsg](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion-nsg)
+* [sharepoint-adfs](https://github.com/Azure/azure-quickstart-templates/tree/master/sharepoint-adfs)
 
 ## Microsoft.Network/connections
 
@@ -1563,15 +1645,10 @@
 * [101-front-door-create-basic](https://github.com/Azure/azure-quickstart-templates/tree/master/101-front-door-create-basic)
 * [101-front-door-create-multiple-backends](https://github.com/Azure/azure-quickstart-templates/tree/master/101-front-door-create-multiple-backends)
 * [101-front-door-custom-domain](https://github.com/Azure/azure-quickstart-templates/tree/master/101-front-door-custom-domain)
-* [101-front-door-geo-filtering](https://github.com/Azure/azure-quickstart-templates/tree/master/101-front-door-geo-filtering)
 * [201-front-door-create-caching](https://github.com/Azure/azure-quickstart-templates/tree/master/201-front-door-create-caching)
 * [201-front-door-health-probes](https://github.com/Azure/azure-quickstart-templates/tree/master/201-front-door-health-probes)
-* [201-front-door-managed-waf-ruleset](https://github.com/Azure/azure-quickstart-templates/tree/master/201-front-door-managed-waf-ruleset)
 * [201-front-door-priority-lb](https://github.com/Azure/azure-quickstart-templates/tree/master/201-front-door-priority-lb)
-* [201-front-door-rate-limiting](https://github.com/Azure/azure-quickstart-templates/tree/master/201-front-door-rate-limiting)
 * [201-front-door-session-affinity](https://github.com/Azure/azure-quickstart-templates/tree/master/201-front-door-session-affinity)
-* [201-front-door-waf-clientip](https://github.com/Azure/azure-quickstart-templates/tree/master/201-front-door-waf-clientip)
-* [201-front-door-waf-http-params](https://github.com/Azure/azure-quickstart-templates/tree/master/201-front-door-waf-http-params)
 
 ## Microsoft.Network/FrontDoorWebApplicationFirewallPolicies
 
@@ -1588,6 +1665,7 @@
 * [101-load-balancer-standard-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-load-balancer-standard-create)
 * [101-loadbalancer-with-multivip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-loadbalancer-with-multivip)
 * [101-loadbalancer-with-nat-rule](https://github.com/Azure/azure-quickstart-templates/tree/master/101-loadbalancer-with-nat-rule)
+* [101-vmms-with-public-ip-prefix](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vmms-with-public-ip-prefix)
 * [101-vm-with-rdp-port](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-rdp-port)
 * [201-1-vm-loadbalancer-2-nics](https://github.com/Azure/azure-quickstart-templates/tree/master/201-1-vm-loadbalancer-2-nics)
 * [201-2-vms-internal-load-balancer](https://github.com/Azure/azure-quickstart-templates/tree/master/201-2-vms-internal-load-balancer)
@@ -1599,6 +1677,7 @@
 * [201-vmss-azure-files-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-azure-files-linux)
 * [201-vmss-bottle-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale)
 * [201-vmss-custom-script-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-custom-script-windows)
+* [201-vmss-datascience](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-datascience)
 * [201-vmss-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-existing-vnet)
 * [201-vmss-internal-loadbalancer](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-internal-loadbalancer)
 * [201-vmss-linux-customimage-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-customimage-autoscale)
@@ -1642,8 +1721,8 @@
 * [iomad-cluster-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/iomad-cluster-ubuntu)
 * [ipv6-in-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet)
 * [ipv6-in-vnet-StdLB](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-StdLB)
+* [ipv6-in-vnet-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-vmss)
 * [kemp-loadmaster-ha-pair](https://github.com/Azure/azure-quickstart-templates/tree/master/kemp-loadmaster-ha-pair)
-* [lansa-vmss-windows-autoscale-existing-db](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-existing-db)
 * [lansa-vmss-windows-autoscale-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-sql-database)
 * [monitor-autoscale-vmss-simplemetricbased](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-autoscale-vmss-simplemetricbased)
 * [mysql-ha-pxc](https://github.com/Azure/azure-quickstart-templates/tree/master/mysql-ha-pxc)
@@ -1690,6 +1769,7 @@
 * [101-1vm-2nics-2subnets-1vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-1vm-2nics-2subnets-1vnet)
 * [101-acsengine-swarmmode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-acsengine-swarmmode)
 * [101-azure-database-migration-service](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-database-migration-service)
+* [101-azurefirewall-sandbox-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-sandbox-linux)
 * [101-azurefirewall-with-zones-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-with-zones-sandbox)
 * [101-hdinsight-hbase-replication-geo](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-hbase-replication-geo)
 * [101-hub-and-spoke-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hub-and-spoke-sandbox)
@@ -1704,12 +1784,14 @@
 * [101-spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker)
 * [101-spinnaker-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker-existing-vnet)
 * [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
+* [101-sql-vm-new-storage-ultrassd](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage-ultrassd)
 * [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
 * [101-vm-automatic-static-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-automatic-static-ip)
 * [101-vm-customdata](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-customdata)
 * [101-vm-from-sig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-from-sig)
 * [101-vm-from-user-image](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-from-user-image)
+* [101-vm-linux-Jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-Jupyterhub)
 * [101-vm-linux-serial-output](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-serial-output)
 * [101-vm-multiple-data-disk](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-data-disk)
 * [101-vm-multiple-ipconfig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-ipconfig)
@@ -1720,9 +1802,11 @@
 * [101-vm-simple-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel)
 * [101-vm-simple-rhel-unmanaged](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel-unmanaged)
 * [101-vm-simple-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows)
+* [101-vm-simple-windows-visualstudio2019](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows-visualstudio2019)
 * [101-vm-simple-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-zones)
 * [101-vm-sshkey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sshkey)
 * [101-vm-tags](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-tags)
+* [101-vm-ubuntu-DSVM-GPU-or-CPU](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-ubuntu-DSVM-GPU-or-CPU)
 * [101-vm-user-image-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-user-image-data-disks)
 * [101-vm-windows-copy-datadisks](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-windows-copy-datadisks)
 * [101-vm-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-data-management-gateway)
@@ -1744,6 +1828,7 @@
 * [201-encrypt-create-new-vm-gallery-image-managed-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-create-new-vm-gallery-image-managed-disks)
 * [201-encrypt-vmss-linux-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-vmss-linux-jumpbox)
 * [201-encrypt-vmss-windows-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-vmss-windows-jumpbox)
+* [201-IoT-IotHub-EdgeEmulator-VM](https://github.com/Azure/azure-quickstart-templates/tree/master/201-IoT-IotHub-EdgeEmulator-VM)
 * [201-jenkins-acr](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
 * [201-list-storage-keys-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/201-list-storage-keys-windows-vm)
 * [201-load-balancer-ipv6-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-load-balancer-ipv6-create)
@@ -1770,8 +1855,10 @@
 * [201-vm-efficientip-vhd](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-efficientip-vhd)
 * [201-vm-generalized-vhd-new-or-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-generalized-vhd-new-or-existing-vnet)
 * [201-vm-linux-dynamic-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-dynamic-data-disks)
+* [201-vm-linux-jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-jupyterhub)
 * [201-vm-monitoring-diagnostics-extension](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-monitoring-diagnostics-extension)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
+* [201-vm-msi-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-storage)
 * [201-vm-multiple-nics-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-multiple-nics-linux)
 * [201-vm-new-or-existing-conditions](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-new-or-existing-conditions)
 * [201-vm-os-disk-and-data-disk-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-os-disk-and-data-disk-existing-vnet)
@@ -1783,6 +1870,7 @@
 * [201-vmss-internal-loadbalancer](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-internal-loadbalancer)
 * [201-vmss-linux-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-jumpbox)
 * [201-vmss-windows-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-jumpbox)
+* [201-vm-vmss-orchestrator](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vmss-orchestrator)
 * [201-vm-vsts-agent](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vsts-agent)
 * [201-vm-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-win-iis-app-ssl)
 * [201-vm-winrm-keyvault-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-winrm-keyvault-windows)
@@ -1804,6 +1892,7 @@
 * [301-jenkins-vmss-blue-green](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-vmss-blue-green)
 * [301-multi-tier-loadbalancing](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-loadbalancing)
 * [301-multi-tier-service-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-service-networking)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
 * [301-vm-32-data-disks-high-iops](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-32-data-disks-high-iops)
 * [301-vm-sql-full-autobackup-autopatching-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-sql-full-autobackup-autopatching-keyvault)
 * [active-directory-new-domain](https://github.com/Azure/azure-quickstart-templates/tree/master/active-directory-new-domain)
@@ -1826,12 +1915,9 @@
 * [centos-singularity](https://github.com/Azure/azure-quickstart-templates/tree/master/centos-singularity)
 * [chef-ha-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-ha-cluster)
 * [chef-json-parameters-linux-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-json-parameters-linux-vm)
-* [cisco-csr-1000v](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v)
-* [cisco-csr-1000v-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-4-nic)
-* [cisco-csr-1000v-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet)
-* [cisco-csr-1000v-existing-vnet-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet-4-nic)
 * [cloudlens-moloch-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-moloch-ubuntu)
 * [cloudlens-suricata-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-suricata-ubuntu)
+* [cohesive-vns3-free-multiclient-overlay-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/cohesive-vns3-free-multiclient-overlay-linux)
 * [concourse-ci](https://github.com/Azure/azure-quickstart-templates/tree/master/concourse-ci)
 * [consul-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/consul-on-ubuntu)
 * [coreos-with-fleet-multivm](https://github.com/Azure/azure-quickstart-templates/tree/master/coreos-with-fleet-multivm)
@@ -1922,7 +2008,7 @@
 * [openvpn-access-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openvpn-access-server-ubuntu)
 * [pf-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/pf-freebsd-setup)
 * [phabricator-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/phabricator-on-ubuntu)
-* [php_pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php_pgsql-freebsd-setup)
+* [php-pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php-pgsql-freebsd-setup)
 * [postgresql-standalone-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/postgresql-standalone-server-ubuntu)
 * [puppet-agent-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-linux)
 * [puppet-agent-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-windows)
@@ -1936,6 +2022,7 @@
 * [rds-deployment-ha-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment-ha-gateway)
 * [rds-update-rdsh-collection](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-update-rdsh-collection)
 * [rhel-3tier-iaas](https://github.com/Azure/azure-quickstart-templates/tree/master/rhel-3tier-iaas)
+* [ros-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/ros-vm-windows)
 * [sap-2-tier-marketplace-image](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image)
 * [sap-2-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image-md)
 * [sap-2-tier-user-disk-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-user-disk-md)
@@ -1983,6 +2070,7 @@
 * [two-tier-nodejsapp-migration-to-containers-on-Azure](https://github.com/Azure/azure-quickstart-templates/tree/master/two-tier-nodejsapp-migration-to-containers-on-Azure)
 * [ubuntu-apache-test-page](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-apache-test-page)
 * [ubuntu-desktop-gnome](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome)
+* [ubuntu-desktop-gnome-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome-rdp)
 * [ubuntu-desktop-xfce-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-xfce-rdp)
 * [ubuntu-netdisk-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-netdisk-setup)
 * [vertx-openjdk-apache-mysql-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/vertx-openjdk-apache-mysql-on-ubuntu)
@@ -2014,47 +2102,85 @@
 * [100-marketplace-sample](https://github.com/Azure/azure-quickstart-templates/tree/master/100-marketplace-sample)
 * [101-1vm-2nics-2subnets-1vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-1vm-2nics-2subnets-1vnet)
 * [101-AAD-DomainServices](https://github.com/Azure/azure-quickstart-templates/tree/master/101-AAD-DomainServices)
-* [101-azure-bastion](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion)
+* [101-azure-bastion-nsg](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion-nsg)
 * [101-azure-database-migration-service](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-database-migration-service)
+* [101-azurefirewall-sandbox-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-sandbox-linux)
 * [101-azurefirewall-with-zones-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-with-zones-sandbox)
 * [101-databricks-all-in-one-template-for-vnet-injection](https://github.com/Azure/azure-quickstart-templates/tree/master/101-databricks-all-in-one-template-for-vnet-injection)
-* [101-databricks-nsg-for-vnet-injection](https://github.com/Azure/azure-quickstart-templates/tree/master/101-databricks-nsg-for-vnet-injection)
 * [101-hdinsight-secure-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-secure-vnet)
 * [101-hub-and-spoke-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hub-and-spoke-sandbox)
 * [101-jenkins](https://github.com/Azure/azure-quickstart-templates/tree/master/101-jenkins)
 * [101-jenkins-with-ssh-public-key](https://github.com/Azure/azure-quickstart-templates/tree/master/101-jenkins-with-ssh-public-key)
+* [101-kusto-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-kusto-vnet)
 * [101-load-balancer-standard-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-load-balancer-standard-create)
 * [101-mutiple-vms-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mutiple-vms-with-data-management-gateway)
+* [101-recovery-services-create-vm-and-configure-backup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-recovery-services-create-vm-and-configure-backup)
 * [101-security-group-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-security-group-create)
+* [101-spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker)
+* [101-sql-managed-instance-azure-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-managed-instance-azure-environment)
 * [101-sqlmi-new-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sqlmi-new-vnet)
 * [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
+* [101-sql-vm-new-storage-ultrassd](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage-ultrassd)
+* [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
+* [101-vm-automatic-static-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-automatic-static-ip)
+* [101-vm-customdata](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-customdata)
+* [101-vm-linux-Jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-Jupyterhub)
+* [101-vm-multiple-data-disk](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-data-disk)
+* [101-vm-multiple-ipconfig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-ipconfig)
+* [101-vm-simple-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux)
+* [101-vm-simple-linux-with-accelerated-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux-with-accelerated-networking)
+* [101-vm-simple-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel)
+* [101-vm-simple-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows)
+* [101-vm-simple-windows-visualstudio2019](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows-visualstudio2019)
 * [101-vm-simple-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-zones)
 * [101-vm-sshkey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sshkey)
 * [101-vms-with-selfhost-integration-runtime](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vms-with-selfhost-integration-runtime)
+* [101-vm-tags](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-tags)
+* [101-vm-ubuntu-DSVM-GPU-or-CPU](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-ubuntu-DSVM-GPU-or-CPU)
+* [101-vm-windows-copy-datadisks](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-windows-copy-datadisks)
+* [101-vsts-cloudloadtest-rig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vsts-cloudloadtest-rig)
 * [201-api-management-create-with-external-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-api-management-create-with-external-vnet)
 * [201-api-management-create-with-internal-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-api-management-create-with-internal-vnet)
 * [201-application-gateway-2vms-iis-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-application-gateway-2vms-iis-ssl)
 * [201-application-security-group](https://github.com/Azure/azure-quickstart-templates/tree/master/201-application-security-group)
+* [201-discover-private-ip-dynamically](https://github.com/Azure/azure-quickstart-templates/tree/master/201-discover-private-ip-dynamically)
+* [201-IoT-IotHub-EdgeEmulator-VM](https://github.com/Azure/azure-quickstart-templates/tree/master/201-IoT-IotHub-EdgeEmulator-VM)
 * [201-jenkins-acr](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
 * [201-multi-vm-lb-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/201-multi-vm-lb-zones)
 * [201-nsg-add-to-existing-subnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-nsg-add-to-existing-subnet)
 * [201-nsg-dmz-in-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-nsg-dmz-in-vnet)
 * [201-redis-vnet-nsg](https://github.com/Azure/azure-quickstart-templates/tree/master/201-redis-vnet-nsg)
+* [201-site-to-site-vpn](https://github.com/Azure/azure-quickstart-templates/tree/master/201-site-to-site-vpn)
 * [201-sqlmi-new-vnet-w-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sqlmi-new-vnet-w-jumpbox)
 * [201-sqlmi-new-vnet-w-point-to-site-vpn](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sqlmi-new-vnet-w-point-to-site-vpn)
 * [201-userdefined-routes-appliance](https://github.com/Azure/azure-quickstart-templates/tree/master/201-userdefined-routes-appliance)
+* [201-vm-copy-index-loops](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-copy-index-loops)
+* [201-vm-copy-managed-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-copy-managed-disks)
 * [201-vm-custom-script-output](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-custom-script-output)
+* [201-vm-custom-script-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-custom-script-windows)
+* [201-vm-linux-dynamic-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-dynamic-data-disks)
+* [201-vm-linux-jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-jupyterhub)
+* [201-vm-monitoring-diagnostics-extension](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-monitoring-diagnostics-extension)
 * [201-vm-msi](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
+* [201-vm-msi-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-storage)
+* [201-vm-multiple-nics-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-multiple-nics-linux)
+* [201-vm-new-or-existing-conditions](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-new-or-existing-conditions)
 * [201-vm-sql-full-autobackup](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-sql-full-autobackup)
 * [201-vm-sql-full-autopatching](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-sql-full-autopatching)
 * [201-vm-sql-full-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-sql-full-keyvault)
+* [201-vmss-linux-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-jumpbox)
 * [201-vmss-linux-nat-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-nat-zones)
 * [201-vmss-msi](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-msi)
+* [201-vmss-windows-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-jumpbox)
 * [201-vmss-windows-nat-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-nat-zones)
 * [201-vmss-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-win-iis-app-ssl)
+* [201-vm-vsts-agent](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vsts-agent)
 * [201-vm-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-win-iis-app-ssl)
+* [201-vm-winrm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-winrm-windows)
+* [201-vnet-2subnets-service-endpoints-storage-integration](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vnet-2subnets-service-endpoints-storage-integration)
+* [201-web-app-vm-dsc](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-vm-dsc)
 * [201-zerto-zca](https://github.com/Azure/azure-quickstart-templates/tree/master/201-zerto-zca)
 * [201-zerto-zca-vpn](https://github.com/Azure/azure-quickstart-templates/tree/master/201-zerto-zca-vpn)
 * [301-2fe-lb80-rdp-1be-nsg-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/301-2fe-lb80-rdp-1be-nsg-rdp)
@@ -2068,20 +2194,26 @@
 * [301-jenkins-vmss-blue-green](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-vmss-blue-green)
 * [301-multi-tier-service-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-service-networking)
 * [301-multi-vmss-linux-lb-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-vmss-linux-lb-zones)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
+* [301-vm-32-data-disks-high-iops](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-32-data-disks-high-iops)
 * [301-vm-sql-full-autobackup-autopatching-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-sql-full-autobackup-autopatching-keyvault)
 * [ansible-tower-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/ansible-tower-rhel)
+* [anti-malware-extension-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/anti-malware-extension-windows-vm)
+* [apache2-on-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/apache2-on-ubuntu-vm)
 * [application-gateway-logviewer-goaccess](https://github.com/Azure/azure-quickstart-templates/tree/master/application-gateway-logviewer-goaccess)
 * [artifactory-enterprise](https://github.com/Azure/azure-quickstart-templates/tree/master/artifactory-enterprise)
 * [barracuda-waf-iis](https://github.com/Azure/azure-quickstart-templates/tree/master/barracuda-waf-iis)
+* [bitcore-centos-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/bitcore-centos-vm)
 * [bootstorm-vm-boot-time](https://github.com/Azure/azure-quickstart-templates/tree/master/bootstorm-vm-boot-time)
 * [bosh-cf-crossregion](https://github.com/Azure/azure-quickstart-templates/tree/master/bosh-cf-crossregion)
 * [bosh-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/bosh-setup)
-* [cisco-csr-1000v](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v)
-* [cisco-csr-1000v-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-4-nic)
-* [cisco-csr-1000v-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet)
-* [cisco-csr-1000v-existing-vnet-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet-4-nic)
+* [chef-json-parameters-linux-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-json-parameters-linux-vm)
+* [cloudlens-moloch-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-moloch-ubuntu)
+* [cloudlens-suricata-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-suricata-ubuntu)
+* [cohesive-vns3-free-multiclient-overlay-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/cohesive-vns3-free-multiclient-overlay-linux)
 * [concourse-ci](https://github.com/Azure/azure-quickstart-templates/tree/master/concourse-ci)
 * [consul-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/consul-on-ubuntu)
+* [coreos-with-fleet-multivm](https://github.com/Azure/azure-quickstart-templates/tree/master/coreos-with-fleet-multivm)
 * [coscale-dev-env](https://github.com/Azure/azure-quickstart-templates/tree/master/coscale-dev-env)
 * [couchbase](https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase)
 * [devopstools-jenkins-chefhabitat-kubernetes](https://github.com/Azure/azure-quickstart-templates/tree/master/devopstools-jenkins-chefhabitat-kubernetes)
@@ -2095,40 +2227,58 @@
 * [docker-kibana-elasticsearch](https://github.com/Azure/azure-quickstart-templates/tree/master/docker-kibana-elasticsearch)
 * [docker-neo4j](https://github.com/Azure/azure-quickstart-templates/tree/master/docker-neo4j)
 * [docker-parse](https://github.com/Azure/azure-quickstart-templates/tree/master/docker-parse)
+* [docker-simple-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/docker-simple-on-ubuntu)
 * [docker-swarm-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/docker-swarm-cluster)
 * [docker-wordpress-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/docker-wordpress-mysql)
+* [drone-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/drone-ubuntu-vm)
+* [dsc-extension-iis-server-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/dsc-extension-iis-server-windows-vm)
+* [dsc-pullserver-to-win-server](https://github.com/Azure/azure-quickstart-templates/tree/master/dsc-pullserver-to-win-server)
 * [elasticsearch-centos-3node](https://github.com/Azure/azure-quickstart-templates/tree/master/elasticsearch-centos-3node)
 * [elasticsearch-jmeter](https://github.com/Azure/azure-quickstart-templates/tree/master/elasticsearch-jmeter)
 * [elasticsearch-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/elasticsearch-vmss)
+* [eris-platform](https://github.com/Azure/azure-quickstart-templates/tree/master/eris-platform)
 * [ethereum-studio-docker-standalone-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/ethereum-studio-docker-standalone-ubuntu)
 * [github-enterprise](https://github.com/Azure/azure-quickstart-templates/tree/master/github-enterprise)
 * [glassfish-on-suse](https://github.com/Azure/azure-quickstart-templates/tree/master/glassfish-on-suse)
+* [gluster-file-system](https://github.com/Azure/azure-quickstart-templates/tree/master/gluster-file-system)
 * [guacamole-rdp-vnc-gateway-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/guacamole-rdp-vnc-gateway-existing-vnet)
 * [iis-2vm-sql-1vm](https://github.com/Azure/azure-quickstart-templates/tree/master/iis-2vm-sql-1vm)
 * [ipv6-in-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet)
 * [ipv6-in-vnet-StdLB](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-StdLB)
+* [ipv6-in-vnet-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-vmss)
 * [jboss-eap-standalone-openshift](https://github.com/Azure/azure-quickstart-templates/tree/master/jboss-eap-standalone-openshift)
 * [jboss-eap-standalone-rhel7](https://github.com/Azure/azure-quickstart-templates/tree/master/jboss-eap-standalone-rhel7)
 * [kemp-loadmaster-ha-pair](https://github.com/Azure/azure-quickstart-templates/tree/master/kemp-loadmaster-ha-pair)
+* [lamp-app](https://github.com/Azure/azure-quickstart-templates/tree/master/lamp-app)
 * [managed-disk-performance-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/managed-disk-performance-meter)
 * [managed-disk-raid-performance-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/managed-disk-raid-performance-meter)
+* [manifold-endpoint](https://github.com/Azure/azure-quickstart-templates/tree/master/manifold-endpoint)
 * [matlab-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/matlab-cluster)
 * [minecraft-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/minecraft-on-ubuntu)
+* [mongodb-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/mongodb-on-ubuntu)
 * [nagios-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/nagios-on-ubuntu)
 * [neo4j-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/neo4j-ubuntu-vm)
+* [nextflow-genomics-cluster-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/nextflow-genomics-cluster-ubuntu)
 * [nylas-email-sync-engine](https://github.com/Azure/azure-quickstart-templates/tree/master/nylas-email-sync-engine)
 * [octopus-deploy-tentacle-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/octopus-deploy-tentacle-windows)
+* [OpenCanvas-LMS](https://github.com/Azure/azure-quickstart-templates/tree/master/OpenCanvas-LMS)
 * [openchain-blockchain-coinprism](https://github.com/Azure/azure-quickstart-templates/tree/master/openchain-blockchain-coinprism)
 * [openedx-devstack-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openedx-devstack-ubuntu)
 * [openedx-fullstack-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openedx-fullstack-ubuntu)
 * [openedx-scalable-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openedx-scalable-ubuntu)
+* [openjdk-tomcat-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/openjdk-tomcat-ubuntu-vm)
+* [OpenScholar](https://github.com/Azure/azure-quickstart-templates/tree/master/OpenScholar)
+* [opensis-singlevm-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/opensis-singlevm-ubuntu)
 * [openvpn-access-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openvpn-access-server-ubuntu)
 * [pf-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/pf-freebsd-setup)
+* [phabricator-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/phabricator-on-ubuntu)
+* [puppet-agent-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-windows)
 * [puppet-enterprise-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-enterprise-cluster)
 * [puppet-enterprise-rhel-win](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-enterprise-rhel-win)
 * [qlik-sense-enterprise](https://github.com/Azure/azure-quickstart-templates/tree/master/qlik-sense-enterprise)
 * [rds-deployment](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment)
 * [rhel-3tier-iaas](https://github.com/Azure/azure-quickstart-templates/tree/master/rhel-3tier-iaas)
+* [ros-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/ros-vm-windows)
 * [sap-2-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-multi-sid-apps-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-multi-sid-apps-md)
@@ -2145,25 +2295,44 @@
 * [sharepoint-adfs](https://github.com/Azure/azure-quickstart-templates/tree/master/sharepoint-adfs)
 * [shibboleth-cluster-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/shibboleth-cluster-ubuntu)
 * [shibboleth-cluster-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/shibboleth-cluster-windows)
+* [slurm](https://github.com/Azure/azure-quickstart-templates/tree/master/slurm)
 * [sonarqube-azuresql](https://github.com/Azure/azure-quickstart-templates/tree/master/sonarqube-azuresql)
 * [spark-2.0-on-suse](https://github.com/Azure/azure-quickstart-templates/tree/master/spark-2.0-on-suse)
 * [spark-and-cassandra-on-centos](https://github.com/Azure/azure-quickstart-templates/tree/master/spark-and-cassandra-on-centos)
+* [stampery-trailbot-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/stampery-trailbot-ubuntu)
 * [steelscript-appfwkdev-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/steelscript-appfwkdev-linux)
+* [storage-iops-latency-throughput-demo](https://github.com/Azure/azure-quickstart-templates/tree/master/storage-iops-latency-throughput-demo)
+* [symantec-extension-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/symantec-extension-windows-vm)
 * [tableau-server-single-node](https://github.com/Azure/azure-quickstart-templates/tree/master/tableau-server-single-node)
+* [tfs-basic-domain](https://github.com/Azure/azure-quickstart-templates/tree/master/tfs-basic-domain)
+* [tfs-basic-workgroup](https://github.com/Azure/azure-quickstart-templates/tree/master/tfs-basic-workgroup)
 * [thinkbox-deadline](https://github.com/Azure/azure-quickstart-templates/tree/master/thinkbox-deadline)
 * [two-tier-nodejsapp-migration-to-containers-on-Azure](https://github.com/Azure/azure-quickstart-templates/tree/master/two-tier-nodejsapp-migration-to-containers-on-Azure)
 * [ubuntu-apache-test-page](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-apache-test-page)
 * [ubuntu-desktop-gnome](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome)
+* [ubuntu-desktop-gnome-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome-rdp)
+* [ubuntu-desktop-xfce-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-xfce-rdp)
 * [ubuntu-netdisk-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-netdisk-setup)
+* [vertx-openjdk-apache-mysql-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/vertx-openjdk-apache-mysql-on-ubuntu)
 * [vm-cpu-sysbench-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/vm-cpu-sysbench-meter)
 * [vm-disk-performance-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/vm-disk-performance-meter)
 * [vm-to-vm-bandwidth-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/vm-to-vm-bandwidth-meter)
+* [vm-to-vm-throughput-meter-multithreaded](https://github.com/Azure/azure-quickstart-templates/tree/master/vm-to-vm-throughput-meter-multithreaded)
 * [vsts-tomcat-redhat-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/vsts-tomcat-redhat-vm)
 * [vsts-tomcat-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/vsts-tomcat-ubuntu-vm)
+* [wordpress-single-vm-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/wordpress-single-vm-ubuntu)
+
+## Microsoft.Network/networkSecurityGroups/securityRules
+
+* [101-sql-managed-instance-azure-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-managed-instance-azure-environment)
 
 ## Microsoft.Network/networkWatchers
 
 * [101-networkwatcher-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-networkwatcher-create)
+
+## Microsoft.Network/networkWatchers/FlowLogs
+
+* [101-networkwatcher-flowLogs-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-networkwatcher-flowLogs-create)
 
 ## Microsoft.Network/publicIPAddresses
 
@@ -2177,13 +2346,16 @@
 * [101-application-gateway-v2-autoscale-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-application-gateway-v2-autoscale-create)
 * [101-application-gateway-waf](https://github.com/Azure/azure-quickstart-templates/tree/master/101-application-gateway-waf)
 * [101-azure-bastion](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion)
+* [101-azure-bastion-nsg](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion-nsg)
 * [101-azure-database-migration-service](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-database-migration-service)
 * [101-azurefirewall-create-with-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-zones)
+* [101-azurefirewall-sandbox-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-sandbox-linux)
 * [101-azurefirewall-with-zones-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-with-zones-sandbox)
 * [101-hdinsight-hbase-replication-geo](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-hbase-replication-geo)
 * [101-hub-and-spoke-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hub-and-spoke-sandbox)
 * [101-jenkins](https://github.com/Azure/azure-quickstart-templates/tree/master/101-jenkins)
 * [101-jenkins-with-ssh-public-key](https://github.com/Azure/azure-quickstart-templates/tree/master/101-jenkins-with-ssh-public-key)
+* [101-kusto-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-kusto-vnet)
 * [101-load-balancer-standard-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-load-balancer-standard-create)
 * [101-loadbalancer-with-multivip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-loadbalancer-with-multivip)
 * [101-loadbalancer-with-nat-rule](https://github.com/Azure/azure-quickstart-templates/tree/master/101-loadbalancer-with-nat-rule)
@@ -2194,12 +2366,15 @@
 * [101-spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker)
 * [101-spinnaker-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker-existing-vnet)
 * [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
+* [101-sql-vm-new-storage-ultrassd](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage-ultrassd)
 * [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
 * [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
 * [101-vm-customdata](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-customdata)
 * [101-vm-from-sig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-from-sig)
 * [101-vm-from-user-image](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-from-user-image)
+* [101-vm-linux-Jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-Jupyterhub)
 * [101-vm-linux-serial-output](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-serial-output)
+* [101-vmms-with-public-ip-prefix](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vmms-with-public-ip-prefix)
 * [101-vm-multiple-data-disk](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-data-disk)
 * [101-vm-multiple-ipconfig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-ipconfig)
 * [101-vm-secure-password](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-secure-password)
@@ -2209,9 +2384,11 @@
 * [101-vm-simple-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel)
 * [101-vm-simple-rhel-unmanaged](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel-unmanaged)
 * [101-vm-simple-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows)
+* [101-vm-simple-windows-visualstudio2019](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows-visualstudio2019)
 * [101-vm-simple-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-zones)
 * [101-vm-sshkey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sshkey)
 * [101-vm-tags](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-tags)
+* [101-vm-ubuntu-DSVM-GPU-or-CPU](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-ubuntu-DSVM-GPU-or-CPU)
 * [101-vm-user-image-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-user-image-data-disks)
 * [101-vm-windows-copy-datadisks](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-windows-copy-datadisks)
 * [101-vm-with-rdp-port](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-rdp-port)
@@ -2241,6 +2418,7 @@
 * [201-encrypt-vmss-linux-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-vmss-linux-jumpbox)
 * [201-encrypt-vmss-windows-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-vmss-windows-jumpbox)
 * [201-extend-vnet-to-multi-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-extend-vnet-to-multi-vnet)
+* [201-IoT-IotHub-EdgeEmulator-VM](https://github.com/Azure/azure-quickstart-templates/tree/master/201-IoT-IotHub-EdgeEmulator-VM)
 * [201-jenkins-acr](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
 * [201-list-storage-keys-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/201-list-storage-keys-windows-vm)
 * [201-load-balancer-ipv6-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-load-balancer-ipv6-create)
@@ -2268,8 +2446,10 @@
 * [201-vm-efficientip-vhd](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-efficientip-vhd)
 * [201-vm-generalized-vhd-new-or-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-generalized-vhd-new-or-existing-vnet)
 * [201-vm-linux-dynamic-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-dynamic-data-disks)
+* [201-vm-linux-jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-jupyterhub)
 * [201-vm-monitoring-diagnostics-extension](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-monitoring-diagnostics-extension)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
+* [201-vm-msi-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-storage)
 * [201-vm-multiple-nics-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-multiple-nics-linux)
 * [201-vm-new-or-existing-conditions](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-new-or-existing-conditions)
 * [201-vm-os-disk-and-data-disk-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-os-disk-and-data-disk-existing-vnet)
@@ -2281,6 +2461,7 @@
 * [201-vmss-azure-files-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-azure-files-linux)
 * [201-vmss-bottle-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale)
 * [201-vmss-custom-script-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-custom-script-windows)
+* [201-vmss-datascience](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-datascience)
 * [201-vmss-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-existing-vnet)
 * [201-vmss-internal-loadbalancer](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-internal-loadbalancer)
 * [201-vmss-linux-customimage-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-customimage-autoscale)
@@ -2301,6 +2482,7 @@
 * [201-vmss-windows-nat-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-nat-zones)
 * [201-vmss-windows-webapp-dsc-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-webapp-dsc-autoscale)
 * [201-vmss-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-win-iis-app-ssl)
+* [201-vm-vmss-orchestrator](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vmss-orchestrator)
 * [201-vm-vsts-agent](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vsts-agent)
 * [201-vm-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-win-iis-app-ssl)
 * [201-vm-winrm-keyvault-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-winrm-keyvault-windows)
@@ -2312,6 +2494,7 @@
 * [201-vnet-transitive-bgp](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vnet-transitive-bgp)
 * [201-vsts-cloudloadtest-rig-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vsts-cloudloadtest-rig-existing-vnet)
 * [201-web-app-vm-dsc](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-vm-dsc)
+* [201-web-app-with-app-gateway-v2](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-with-app-gateway-v2)
 * [201-zerto-zca](https://github.com/Azure/azure-quickstart-templates/tree/master/201-zerto-zca)
 * [201-zerto-zca-vpn](https://github.com/Azure/azure-quickstart-templates/tree/master/201-zerto-zca-vpn)
 * [301-2fe-lb80-rdp-1be-nsg-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/301-2fe-lb80-rdp-1be-nsg-rdp)
@@ -2328,12 +2511,14 @@
 * [301-multi-tier-loadbalancing](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-loadbalancing)
 * [301-multi-tier-service-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-service-networking)
 * [301-multi-vmss-linux-lb-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-vmss-linux-lb-zones)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
 * [301-vm-32-data-disks-high-iops](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-32-data-disks-high-iops)
 * [301-vm-sql-full-autobackup-autopatching-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-sql-full-autobackup-autopatching-keyvault)
 * [5-VM-Ubuntu-1-NodeTypes-Secure](https://github.com/Azure/azure-quickstart-templates/tree/master/5-VM-Ubuntu-1-NodeTypes-Secure)
 * [active-directory-new-domain](https://github.com/Azure/azure-quickstart-templates/tree/master/active-directory-new-domain)
 * [active-directory-new-domain-ha-2-dc](https://github.com/Azure/azure-quickstart-templates/tree/master/active-directory-new-domain-ha-2-dc)
 * [active-directory-new-domain-ha-2-dc-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/active-directory-new-domain-ha-2-dc-zones)
+* [ag-docs-wafv2](https://github.com/Azure/azure-quickstart-templates/tree/master/ag-docs-wafv2)
 * [ansible-advancedlinux](https://github.com/Azure/azure-quickstart-templates/tree/master/ansible-advancedlinux)
 * [ansible-tower-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/ansible-tower-rhel)
 * [anti-malware-extension-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/anti-malware-extension-windows-vm)
@@ -2353,12 +2538,9 @@
 * [centos-singularity](https://github.com/Azure/azure-quickstart-templates/tree/master/centos-singularity)
 * [chef-ha-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-ha-cluster)
 * [chef-json-parameters-linux-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-json-parameters-linux-vm)
-* [cisco-csr-1000v](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v)
-* [cisco-csr-1000v-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-4-nic)
-* [cisco-csr-1000v-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet)
-* [cisco-csr-1000v-existing-vnet-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet-4-nic)
 * [cloudlens-moloch-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-moloch-ubuntu)
 * [cloudlens-suricata-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-suricata-ubuntu)
+* [cohesive-vns3-free-multiclient-overlay-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/cohesive-vns3-free-multiclient-overlay-linux)
 * [concourse-ci](https://github.com/Azure/azure-quickstart-templates/tree/master/concourse-ci)
 * [consul-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/consul-on-ubuntu)
 * [coreos-with-fleet-multivm](https://github.com/Azure/azure-quickstart-templates/tree/master/coreos-with-fleet-multivm)
@@ -2408,12 +2590,12 @@
 * [iomad-singlevm-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/iomad-singlevm-ubuntu)
 * [ipv6-in-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet)
 * [ipv6-in-vnet-StdLB](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-StdLB)
+* [ipv6-in-vnet-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-vmss)
 * [jboss-eap-standalone-openshift](https://github.com/Azure/azure-quickstart-templates/tree/master/jboss-eap-standalone-openshift)
 * [jboss-eap-standalone-rhel7](https://github.com/Azure/azure-quickstart-templates/tree/master/jboss-eap-standalone-rhel7)
 * [kemp-loadmaster-ha-pair](https://github.com/Azure/azure-quickstart-templates/tree/master/kemp-loadmaster-ha-pair)
 * [kemp-loadmaster-multinic](https://github.com/Azure/azure-quickstart-templates/tree/master/kemp-loadmaster-multinic)
 * [lamp-app](https://github.com/Azure/azure-quickstart-templates/tree/master/lamp-app)
-* [lansa-vmss-windows-autoscale-existing-db](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-existing-db)
 * [lansa-vmss-windows-autoscale-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-sql-database)
 * [managed-disk-performance-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/managed-disk-performance-meter)
 * [managed-disk-raid-performance-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/managed-disk-raid-performance-meter)
@@ -2451,7 +2633,7 @@
 * [openvpn-access-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openvpn-access-server-ubuntu)
 * [pf-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/pf-freebsd-setup)
 * [phabricator-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/phabricator-on-ubuntu)
-* [php_pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php_pgsql-freebsd-setup)
+* [php-pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php-pgsql-freebsd-setup)
 * [postgresql-standalone-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/postgresql-standalone-server-ubuntu)
 * [puppet-agent-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-linux)
 * [puppet-agent-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-windows)
@@ -2464,6 +2646,7 @@
 * [rds-deployment-existing-ad](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment-existing-ad)
 * [rds-deployment-ha-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment-ha-gateway)
 * [rhel-3tier-iaas](https://github.com/Azure/azure-quickstart-templates/tree/master/rhel-3tier-iaas)
+* [ros-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/ros-vm-windows)
 * [sap-2-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-multi-sid-apps-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-multi-sid-apps-md)
@@ -2502,6 +2685,7 @@
 * [two-tier-nodejsapp-migration-to-containers-on-Azure](https://github.com/Azure/azure-quickstart-templates/tree/master/two-tier-nodejsapp-migration-to-containers-on-Azure)
 * [ubuntu-apache-test-page](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-apache-test-page)
 * [ubuntu-desktop-gnome](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome)
+* [ubuntu-desktop-gnome-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome-rdp)
 * [ubuntu-desktop-xfce-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-xfce-rdp)
 * [ubuntu-netdisk-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-netdisk-setup)
 * [vertx-openjdk-apache-mysql-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/vertx-openjdk-apache-mysql-on-ubuntu)
@@ -2523,18 +2707,19 @@
 * [wordpress-single-vm-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/wordpress-single-vm-ubuntu)
 * [zookeeper-cluster-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/zookeeper-cluster-ubuntu-vm)
 
+## Microsoft.Network/publicIPPrefixes
+
+* [101-vmms-with-public-ip-prefix](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vmms-with-public-ip-prefix)
+
 ## Microsoft.Network/routeTables
 
+* [101-azurefirewall-sandbox-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-sandbox-linux)
 * [101-azurefirewall-with-zones-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-with-zones-sandbox)
 * [101-sql-managed-instance-azure-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-managed-instance-azure-environment)
 * [101-sqlmi-new-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sqlmi-new-vnet)
 * [201-sqlmi-new-vnet-w-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sqlmi-new-vnet-w-jumpbox)
 * [201-sqlmi-new-vnet-w-point-to-site-vpn](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sqlmi-new-vnet-w-point-to-site-vpn)
 * [201-userdefined-routes-appliance](https://github.com/Azure/azure-quickstart-templates/tree/master/201-userdefined-routes-appliance)
-* [cisco-csr-1000v](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v)
-* [cisco-csr-1000v-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-4-nic)
-* [cisco-csr-1000v-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet)
-* [cisco-csr-1000v-existing-vnet-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet-4-nic)
 * [ipv6-in-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet)
 * [ipv6-in-vnet-StdLB](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-StdLB)
 * [pf-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/pf-freebsd-setup)
@@ -2590,8 +2775,10 @@
 * [101-application-gateway-v2-autoscale-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-application-gateway-v2-autoscale-create)
 * [101-application-gateway-waf](https://github.com/Azure/azure-quickstart-templates/tree/master/101-application-gateway-waf)
 * [101-azure-bastion](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion)
+* [101-azure-bastion-nsg](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion-nsg)
 * [101-azure-database-migration-service](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-database-migration-service)
 * [101-azurefirewall-create-with-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-zones)
+* [101-azurefirewall-sandbox-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-sandbox-linux)
 * [101-azurefirewall-with-zones-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-with-zones-sandbox)
 * [101-create-ase-with-webapp](https://github.com/Azure/azure-quickstart-templates/tree/master/101-create-ase-with-webapp)
 * [101-databricks-all-in-one-template-for-vnet-injection](https://github.com/Azure/azure-quickstart-templates/tree/master/101-databricks-all-in-one-template-for-vnet-injection)
@@ -2606,6 +2793,7 @@
 * [101-internal-loadbalancer-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-internal-loadbalancer-create)
 * [101-jenkins](https://github.com/Azure/azure-quickstart-templates/tree/master/101-jenkins)
 * [101-jenkins-with-ssh-public-key](https://github.com/Azure/azure-quickstart-templates/tree/master/101-jenkins-with-ssh-public-key)
+* [101-kusto-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-kusto-vnet)
 * [101-load-balancer-standard-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-load-balancer-standard-create)
 * [101-loadbalancer-with-multivip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-loadbalancer-with-multivip)
 * [101-loadbalancer-with-nat-rule](https://github.com/Azure/azure-quickstart-templates/tree/master/101-loadbalancer-with-nat-rule)
@@ -2623,7 +2811,9 @@
 * [101-vm-automatic-static-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-automatic-static-ip)
 * [101-vm-customdata](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-customdata)
 * [101-vm-from-sig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-from-sig)
+* [101-vm-linux-Jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-Jupyterhub)
 * [101-vm-linux-serial-output](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-serial-output)
+* [101-vmms-with-public-ip-prefix](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vmms-with-public-ip-prefix)
 * [101-vm-multiple-data-disk](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-data-disk)
 * [101-vm-multiple-ipconfig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-ipconfig)
 * [101-vm-secure-password](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-secure-password)
@@ -2633,9 +2823,11 @@
 * [101-vm-simple-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel)
 * [101-vm-simple-rhel-unmanaged](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel-unmanaged)
 * [101-vm-simple-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows)
+* [101-vm-simple-windows-visualstudio2019](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows-visualstudio2019)
 * [101-vm-simple-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-zones)
 * [101-vm-sshkey](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sshkey)
 * [101-vm-tags](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-tags)
+* [101-vm-ubuntu-DSVM-GPU-or-CPU](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-ubuntu-DSVM-GPU-or-CPU)
 * [101-vm-windows-copy-datadisks](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-windows-copy-datadisks)
 * [101-vm-with-rdp-port](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-rdp-port)
 * [101-vm-with-standardssd-disk](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-standardssd-disk)
@@ -2667,6 +2859,7 @@
 * [201-encrypt-vmss-windows-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-encrypt-vmss-windows-jumpbox)
 * [201-extend-vnet-to-multi-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-extend-vnet-to-multi-vnet)
 * [201-integration-service-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/201-integration-service-environment)
+* [201-IoT-IotHub-EdgeEmulator-VM](https://github.com/Azure/azure-quickstart-templates/tree/master/201-IoT-IotHub-EdgeEmulator-VM)
 * [201-jenkins-acr](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
 * [201-list-storage-keys-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/201-list-storage-keys-windows-vm)
 * [201-load-balancer-ipv6-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-load-balancer-ipv6-create)
@@ -2693,9 +2886,11 @@
 * [201-vm-dynamic-data-disks-selection](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-dynamic-data-disks-selection)
 * [201-vm-generalized-vhd-new-or-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-generalized-vhd-new-or-existing-vnet)
 * [201-vm-linux-dynamic-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-dynamic-data-disks)
+* [201-vm-linux-jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-jupyterhub)
 * [201-vm-monitoring-diagnostics-extension](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-monitoring-diagnostics-extension)
 * [201-vm-msi](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
+* [201-vm-msi-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-storage)
 * [201-vm-multiple-nics-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-multiple-nics-linux)
 * [201-vm-new-or-existing-conditions](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-new-or-existing-conditions)
 * [201-vm-push-certificate-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-push-certificate-windows)
@@ -2706,6 +2901,7 @@
 * [201-vmss-azure-files-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-azure-files-linux)
 * [201-vmss-bottle-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale)
 * [201-vmss-custom-script-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-custom-script-windows)
+* [201-vmss-datascience](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-datascience)
 * [201-vmss-internal-loadbalancer](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-internal-loadbalancer)
 * [201-vmss-linux-customimage-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-customimage-autoscale)
 * [201-vmss-linux-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-linux-jumpbox)
@@ -2726,6 +2922,7 @@
 * [201-vmss-windows-nat-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-nat-zones)
 * [201-vmss-windows-webapp-dsc-autoscale](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-webapp-dsc-autoscale)
 * [201-vmss-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-win-iis-app-ssl)
+* [201-vm-vmss-orchestrator](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vmss-orchestrator)
 * [201-vm-vsts-agent](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vsts-agent)
 * [201-vm-win-iis-app-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-win-iis-app-ssl)
 * [201-vm-winrm-keyvault-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-winrm-keyvault-windows)
@@ -2737,6 +2934,7 @@
 * [201-vnet-to-vnet-peering](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vnet-to-vnet-peering)
 * [201-vnet-transitive-bgp](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vnet-transitive-bgp)
 * [201-web-app-vm-dsc](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-vm-dsc)
+* [201-web-app-with-app-gateway-v2](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-with-app-gateway-v2)
 * [201-zerto-zca](https://github.com/Azure/azure-quickstart-templates/tree/master/201-zerto-zca)
 * [201-zerto-zca-vpn](https://github.com/Azure/azure-quickstart-templates/tree/master/201-zerto-zca-vpn)
 * [301-2fe-lb80-rdp-1be-nsg-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/301-2fe-lb80-rdp-1be-nsg-rdp)
@@ -2755,9 +2953,11 @@
 * [301-multi-vmss-linux-lb-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-vmss-linux-lb-zones)
 * [301-multi-vmss-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-vmss-windows)
 * [301-servicebus-namespace-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/301-servicebus-namespace-vnet)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
 * [301-vm-32-data-disks-high-iops](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-32-data-disks-high-iops)
 * [301-vm-sql-full-autobackup-autopatching-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-sql-full-autobackup-autopatching-keyvault)
 * [5-VM-Ubuntu-1-NodeTypes-Secure](https://github.com/Azure/azure-quickstart-templates/tree/master/5-VM-Ubuntu-1-NodeTypes-Secure)
+* [ag-docs-wafv2](https://github.com/Azure/azure-quickstart-templates/tree/master/ag-docs-wafv2)
 * [ansible-advancedlinux](https://github.com/Azure/azure-quickstart-templates/tree/master/ansible-advancedlinux)
 * [ansible-tower-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/ansible-tower-rhel)
 * [anti-malware-extension-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/anti-malware-extension-windows-vm)
@@ -2777,10 +2977,9 @@
 * [centos-singularity](https://github.com/Azure/azure-quickstart-templates/tree/master/centos-singularity)
 * [chef-ha-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-ha-cluster)
 * [chef-json-parameters-linux-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-json-parameters-linux-vm)
-* [cisco-csr-1000v](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v)
-* [cisco-csr-1000v-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-4-nic)
 * [cloudlens-moloch-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-moloch-ubuntu)
 * [cloudlens-suricata-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-suricata-ubuntu)
+* [cohesive-vns3-free-multiclient-overlay-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/cohesive-vns3-free-multiclient-overlay-linux)
 * [concourse-ci](https://github.com/Azure/azure-quickstart-templates/tree/master/concourse-ci)
 * [consul-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/consul-on-ubuntu)
 * [coreos-with-fleet-multivm](https://github.com/Azure/azure-quickstart-templates/tree/master/coreos-with-fleet-multivm)
@@ -2830,12 +3029,12 @@
 * [iomad-singlevm-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/iomad-singlevm-ubuntu)
 * [ipv6-in-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet)
 * [ipv6-in-vnet-StdLB](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-StdLB)
+* [ipv6-in-vnet-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/ipv6-in-vnet-vmss)
 * [jboss-eap-standalone-openshift](https://github.com/Azure/azure-quickstart-templates/tree/master/jboss-eap-standalone-openshift)
 * [jboss-eap-standalone-rhel7](https://github.com/Azure/azure-quickstart-templates/tree/master/jboss-eap-standalone-rhel7)
 * [jenkins-cicd-container](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-cicd-container)
 * [kemp-loadmaster-ha-pair](https://github.com/Azure/azure-quickstart-templates/tree/master/kemp-loadmaster-ha-pair)
 * [lamp-app](https://github.com/Azure/azure-quickstart-templates/tree/master/lamp-app)
-* [lansa-vmss-windows-autoscale-existing-db](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-existing-db)
 * [lansa-vmss-windows-autoscale-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-sql-database)
 * [managed-disk-performance-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/managed-disk-performance-meter)
 * [managed-disk-raid-performance-meter](https://github.com/Azure/azure-quickstart-templates/tree/master/managed-disk-raid-performance-meter)
@@ -2872,7 +3071,7 @@
 * [openvpn-access-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openvpn-access-server-ubuntu)
 * [pf-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/pf-freebsd-setup)
 * [phabricator-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/phabricator-on-ubuntu)
-* [php_pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php_pgsql-freebsd-setup)
+* [php-pgsql-freebsd-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/php-pgsql-freebsd-setup)
 * [postgresql-standalone-server-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/postgresql-standalone-server-ubuntu)
 * [puppet-agent-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-linux)
 * [puppet-agent-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/puppet-agent-windows)
@@ -2883,6 +3082,7 @@
 * [radium-blockchain-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/radium-blockchain-ubuntu)
 * [rds-deployment](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment)
 * [rhel-3tier-iaas](https://github.com/Azure/azure-quickstart-templates/tree/master/rhel-3tier-iaas)
+* [ros-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/ros-vm-windows)
 * [sap-2-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-md)
 * [sap-3-tier-marketplace-image-multi-sid-apps-md](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-3-tier-marketplace-image-multi-sid-apps-md)
@@ -2925,6 +3125,7 @@
 * [two-tier-nodejsapp-migration-to-containers-on-Azure](https://github.com/Azure/azure-quickstart-templates/tree/master/two-tier-nodejsapp-migration-to-containers-on-Azure)
 * [ubuntu-apache-test-page](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-apache-test-page)
 * [ubuntu-desktop-gnome](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome)
+* [ubuntu-desktop-gnome-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-gnome-rdp)
 * [ubuntu-desktop-xfce-rdp](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-desktop-xfce-rdp)
 * [ubuntu-netdisk-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/ubuntu-netdisk-setup)
 * [vertx-openjdk-apache-mysql-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/vertx-openjdk-apache-mysql-on-ubuntu)
@@ -2950,14 +3151,18 @@
 
 * [101-AAD-DomainServices](https://github.com/Azure/azure-quickstart-templates/tree/master/101-AAD-DomainServices)
 * [101-azure-bastion](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion)
+* [101-azure-bastion-nsg](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-bastion-nsg)
 * [101-azure-database-migration-service](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-database-migration-service)
 * [101-hub-and-spoke-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hub-and-spoke-sandbox)
 * [101-managed-mysql-with-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-managed-mysql-with-vnet)
 * [101-subnet-add-vnet-existing](https://github.com/Azure/azure-quickstart-templates/tree/master/101-subnet-add-vnet-existing)
 * [101-vnet-two-subnets](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vnet-two-subnets)
 * [201-integration-service-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/201-integration-service-environment)
+* [201-redis-vnet-nsg](https://github.com/Azure/azure-quickstart-templates/tree/master/201-redis-vnet-nsg)
+* [cohesive-vns3-free-multiclient-overlay-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/cohesive-vns3-free-multiclient-overlay-linux)
 * [elasticsearch-jmeter](https://github.com/Azure/azure-quickstart-templates/tree/master/elasticsearch-jmeter)
 * [e-shop-website-with-ilb-ase](https://github.com/Azure/azure-quickstart-templates/tree/master/e-shop-website-with-ilb-ase)
+* [sharepoint-adfs](https://github.com/Azure/azure-quickstart-templates/tree/master/sharepoint-adfs)
 
 ## Microsoft.Network/virtualNetworks/virtualNetworkPeerings
 
@@ -3139,9 +3344,12 @@
 * [101-aks-advanced-networking-aad](https://github.com/Azure/azure-quickstart-templates/tree/master/101-aks-advanced-networking-aad)
 * [101-automation-configuration](https://github.com/Azure/azure-quickstart-templates/tree/master/101-automation-configuration)
 * [101-backup-la-reporting](https://github.com/Azure/azure-quickstart-templates/tree/master/101-backup-la-reporting)
+* [101-custom-rp-existing-resource-deployments](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-existing-resource-deployments)
 * [101-data-lake-store-encryption-key-vault](https://github.com/Azure/azure-quickstart-templates/tree/master/101-data-lake-store-encryption-key-vault)
 * [101-DDoS-Attack-Prevention](https://github.com/Azure/azure-quickstart-templates/tree/master/101-DDoS-Attack-Prevention)
+* [101-hdinsight-custom-ambari-db](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-custom-ambari-db)
 * [101-mutiple-vms-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mutiple-vms-with-data-management-gateway)
+* [101-networkwatcher-flowLogs-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-networkwatcher-flowLogs-create)
 * [101-SQL-Injection-Attack-Prevention](https://github.com/Azure/azure-quickstart-templates/tree/master/101-SQL-Injection-Attack-Prevention)
 * [101-sql-vm-ag-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-ag-setup)
 * [101-vm-automatic-static-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-automatic-static-ip)
@@ -3170,6 +3378,7 @@
 * [201-redis-vnet-nsg](https://github.com/Azure/azure-quickstart-templates/tree/master/201-redis-vnet-nsg)
 * [201-vm-custom-script-output](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-custom-script-output)
 * [201-vm-msi](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi)
+* [201-vm-msi-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-storage)
 * [201-vm-sql-full-autobackup](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-sql-full-autobackup)
 * [201-vm-sql-full-autopatching](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-sql-full-autopatching)
 * [201-vm-sql-full-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-sql-full-keyvault)
@@ -3228,6 +3437,7 @@
 * [jenkins-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-on-ubuntu)
 * [kafka-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/kafka-on-ubuntu)
 * [kafka-ubuntu-multidisks](https://github.com/Azure/azure-quickstart-templates/tree/master/kafka-ubuntu-multidisks)
+* [kentico-mvc-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/kentico-mvc-environment)
 * [lap-mysql-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/lap-mysql-ubuntu)
 * [lap-neo4j-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/lap-neo4j-ubuntu)
 * [mahara-autoscale-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/mahara-autoscale-cache)
@@ -3248,6 +3458,7 @@
 * [postgresql-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/postgresql-on-ubuntu)
 * [rds-deployment](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment)
 * [redis-high-availability](https://github.com/Azure/azure-quickstart-templates/tree/master/redis-high-availability)
+* [ros-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/ros-vm-windows)
 * [safekit-cluster-farm](https://github.com/Azure/azure-quickstart-templates/tree/master/safekit-cluster-farm)
 * [safekit-cluster-mirror](https://github.com/Azure/azure-quickstart-templates/tree/master/safekit-cluster-mirror)
 * [sap-2-tier-marketplace-image](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image)
@@ -3268,6 +3479,7 @@
 * [spark-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/spark-on-ubuntu)
 * [spark-ubuntu-multidisks](https://github.com/Azure/azure-quickstart-templates/tree/master/spark-ubuntu-multidisks)
 * [splunk-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/splunk-on-ubuntu)
+* [sql-encryption-protector-byok](https://github.com/Azure/azure-quickstart-templates/tree/master/sql-encryption-protector-byok)
 * [sql-server-2014-alwayson-existing-vnet-and-ad](https://github.com/Azure/azure-quickstart-templates/tree/master/sql-server-2014-alwayson-existing-vnet-and-ad)
 * [sqlvm-alwayson-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/sqlvm-alwayson-cluster)
 * [subscription-level-deployments/create-rg-lock-role-assignment](https://github.com/Azure/azure-quickstart-templates/tree/master/subscription-level-deployments/create-rg-lock-role-assignment)
@@ -3382,6 +3594,16 @@
 
 * [101-signalr](https://github.com/Azure/azure-quickstart-templates/tree/master/101-signalr)
 
+## Microsoft.Solutions/applicationDefinitions
+
+* [101-managed-application](https://github.com/Azure/azure-quickstart-templates/tree/master/101-managed-application)
+* [101-managed-application-with-metrics-and-alerts](https://github.com/Azure/azure-quickstart-templates/tree/master/101-managed-application-with-metrics-and-alerts)
+
+## Microsoft.Solutions/applications
+
+* [101-managed-application](https://github.com/Azure/azure-quickstart-templates/tree/master/101-managed-application)
+* [101-managed-application-with-metrics-and-alerts](https://github.com/Azure/azure-quickstart-templates/tree/master/101-managed-application-with-metrics-and-alerts)
+
 ## Microsoft.Sql/managedInstances
 
 * [101-sqlmi-new-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sqlmi-new-vnet)
@@ -3397,6 +3619,7 @@
 * [101-sql-elastic-pool-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-elastic-pool-create)
 * [101-sql-logical-server](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-logical-server)
 * [101-sql-with-failover-group](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-with-failover-group)
+* [101-webapp-linux-sonarqube-azuresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-azuresql)
 * [201-sql-auditing-server-policy-to-blob-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sql-auditing-server-policy-to-blob-storage)
 * [201-sql-auditing-server-policy-to-eventhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sql-auditing-server-policy-to-eventhub)
 * [201-sql-auditing-server-policy-to-oms](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sql-auditing-server-policy-to-oms)
@@ -3410,10 +3633,12 @@
 * [azure-governance-operations-automation](https://github.com/Azure/azure-quickstart-templates/tree/master/azure-governance-operations-automation)
 * [episerver-cms-in-azure](https://github.com/Azure/azure-quickstart-templates/tree/master/episerver-cms-in-azure)
 * [e-shop-website-with-ilb-ase](https://github.com/Azure/azure-quickstart-templates/tree/master/e-shop-website-with-ilb-ase)
+* [kentico-mvc-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/kentico-mvc-environment)
 * [lansa-vmss-windows-autoscale-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-sql-database)
 * [octopusdeploy3-single-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/octopusdeploy3-single-vm-windows)
 * [orchard-cms-video-portal](https://github.com/Azure/azure-quickstart-templates/tree/master/orchard-cms-video-portal)
 * [sqldb-django-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/sqldb-django-on-ubuntu)
+* [sql-encryption-protector-byok](https://github.com/Azure/azure-quickstart-templates/tree/master/sql-encryption-protector-byok)
 * [umbraco-cms-webapp-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-cms-webapp-redis-cache)
 * [umbraco-webapp-simple](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-webapp-simple)
 
@@ -3430,10 +3655,12 @@
 ## Microsoft.Sql/servers/databases
 
 * [101-azure-database-migration-service](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-database-migration-service)
+* [101-hdinsight-custom-ambari-db](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-custom-ambari-db)
 * [101-hdinsight-linux-with-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-linux-with-sql-database)
 * [101-mobile-app-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mobile-app-create)
 * [101-sql-elastic-pool-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-elastic-pool-create)
 * [101-sql-with-failover-group](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-with-failover-group)
+* [101-webapp-linux-sonarqube-azuresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-azuresql)
 * [201-sql-auditing-server-policy-to-eventhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sql-auditing-server-policy-to-eventhub)
 * [201-sql-auditing-server-policy-to-oms](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sql-auditing-server-policy-to-oms)
 * [201-sql-database-transparent-encryption-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sql-database-transparent-encryption-create)
@@ -3461,6 +3688,10 @@
 
 * [101-sql-elastic-pool-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-elastic-pool-create)
 
+## Microsoft.Sql/servers/encryptionProtector
+
+* [sql-encryption-protector-byok](https://github.com/Azure/azure-quickstart-templates/tree/master/sql-encryption-protector-byok)
+
 ## Microsoft.Sql/servers/failoverGroups
 
 * [101-sql-with-failover-group](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-with-failover-group)
@@ -3472,18 +3703,24 @@
 * [101-mobile-app-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mobile-app-create)
 * [101-sql-elastic-pool-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-elastic-pool-create)
 * [101-sql-logical-server](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-logical-server)
+* [101-webapp-linux-sonarqube-azuresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-azuresql)
 * [201-sql-database-transparent-encryption-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-sql-database-transparent-encryption-create)
 * [201-web-app-redis-cache-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-redis-cache-sql-database)
 * [201-web-app-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-sql-database)
 * [201-web-app-vm-dsc](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-vm-dsc)
 * [301-web-app-sql-docdb-search](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-sql-docdb-search)
 * [episerver-cms-in-azure](https://github.com/Azure/azure-quickstart-templates/tree/master/episerver-cms-in-azure)
+* [kentico-mvc-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/kentico-mvc-environment)
 * [lansa-vmss-windows-autoscale-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/lansa-vmss-windows-autoscale-sql-database)
 * [octopusdeploy3-single-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/octopusdeploy3-single-vm-windows)
 * [orchard-cms-video-portal](https://github.com/Azure/azure-quickstart-templates/tree/master/orchard-cms-video-portal)
 * [sqldb-django-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/sqldb-django-on-ubuntu)
 * [umbraco-cms-webapp-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-cms-webapp-redis-cache)
 * [umbraco-webapp-simple](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-webapp-simple)
+
+## Microsoft.Sql/servers/keys
+
+* [sql-encryption-protector-byok](https://github.com/Azure/azure-quickstart-templates/tree/master/sql-encryption-protector-byok)
 
 ## Microsoft.Sql/servers/securityAlertPolicies
 
@@ -3509,6 +3746,7 @@
 
 * [101-sql-vm-ag-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-ag-setup)
 * [101-sql-vm-new-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage)
+* [101-sql-vm-new-storage-ultrassd](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-new-storage-ultrassd)
 
 ## Microsoft.Storage/storageAccounts
 
@@ -3516,6 +3754,7 @@
 * [101-1vm-2nics-2subnets-1vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/101-1vm-2nics-2subnets-1vnet)
 * [101-aci-storage-file-share](https://github.com/Azure/azure-quickstart-templates/tree/master/101-aci-storage-file-share)
 * [101-azure-database-migration-service](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azure-database-migration-service)
+* [101-azurefirewall-sandbox-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-sandbox-linux)
 * [101-azurefirewall-with-zones-sandbox](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-with-zones-sandbox)
 * [101-batchaccount-with-storage](https://github.com/Azure/azure-quickstart-templates/tree/master/101-batchaccount-with-storage)
 * [101-custom-rp-with-function](https://github.com/Azure/azure-quickstart-templates/tree/master/101-custom-rp-with-function)
@@ -3545,6 +3784,7 @@
 * [101-machine-learning-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-machine-learning-create)
 * [101-media-services-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-media-services-create)
 * [101-mutiple-vms-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mutiple-vms-with-data-management-gateway)
+* [101-networkwatcher-flowLogs-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-networkwatcher-flowLogs-create)
 * [101-recovery-services-create-vault-enable-diagnostics](https://github.com/Azure/azure-quickstart-templates/tree/master/101-recovery-services-create-vault-enable-diagnostics)
 * [101-recovery-services-create-vm-and-configure-backup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-recovery-services-create-vm-and-configure-backup)
 * [101-spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/101-spinnaker)
@@ -3553,21 +3793,23 @@
 * [101-sql-vm-ag-setup](https://github.com/Azure/azure-quickstart-templates/tree/master/101-sql-vm-ag-setup)
 * [101-storage-account-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-account-create)
 * [101-storage-blob-container](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-blob-container)
+* [101-storage-file-share](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-file-share)
 * [101-storage-multi-blob-container](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-multi-blob-container)
+* [101-storage-multi-file-share](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-multi-file-share)
 * [101-Telegraf-InfluxDB-Grafana](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Telegraf-InfluxDB-Grafana)
-* [101-ubuntu-mate-desktop-vscode](https://github.com/Azure/azure-quickstart-templates/tree/master/101-ubuntu-mate-desktop-vscode)
 * [101-vm-customdata](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-customdata)
+* [101-vm-linux-Jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-Jupyterhub)
 * [101-vm-linux-serial-output](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-linux-serial-output)
 * [101-vm-multiple-data-disk](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-data-disk)
 * [101-vm-secure-password](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-secure-password)
 * [101-vm-simple-freebsd](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-freebsd)
-* [101-vm-simple-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux)
 * [101-vm-simple-linux-with-accelerated-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux-with-accelerated-networking)
 * [101-vm-simple-rhel-unmanaged](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-rhel-unmanaged)
 * [101-vm-simple-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows)
 * [101-vm-simple-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-zones)
 * [101-vms-with-selfhost-integration-runtime](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vms-with-selfhost-integration-runtime)
 * [101-vm-tags](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-tags)
+* [101-vm-ubuntu-DSVM-GPU-or-CPU](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-ubuntu-DSVM-GPU-or-CPU)
 * [101-vm-with-data-management-gateway](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-data-management-gateway)
 * [101-vm-with-rdp-port](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-with-rdp-port)
 * [101-vsts-cloudloadtest-rig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vsts-cloudloadtest-rig)
@@ -3591,6 +3833,7 @@
 * [201-jenkins-acr](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
 * [201-key-vault-with-logging-create](https://github.com/Azure/azure-quickstart-templates/tree/master/201-key-vault-with-logging-create)
 * [201-list-storage-keys-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/201-list-storage-keys-windows-vm)
+* [201-machine-learning-private-ip](https://github.com/Azure/azure-quickstart-templates/tree/master/201-machine-learning-private-ip)
 * [201-multi-vm-lb-zones](https://github.com/Azure/azure-quickstart-templates/tree/master/201-multi-vm-lb-zones)
 * [201-oms-extension-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/201-oms-extension-ubuntu-vm)
 * [201-oms-extension-windows-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/201-oms-extension-windows-vm)
@@ -3612,6 +3855,7 @@
 * [201-vm-efficientip-vhd](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-efficientip-vhd)
 * [201-vm-generalized-vhd-new-or-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-generalized-vhd-new-or-existing-vnet)
 * [201-vm-linux-dynamic-data-disks](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-dynamic-data-disks)
+* [201-vm-linux-jupyterhub](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-linux-jupyterhub)
 * [201-vm-msi](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi)
 * [201-vm-msi-linux-terraform](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-msi-linux-terraform)
 * [201-vm-multiple-nics-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-multiple-nics-linux)
@@ -3624,6 +3868,7 @@
 * [201-vmss-msi](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-msi)
 * [201-vmss-windows-jumpbox](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-jumpbox)
 * [201-vmss-windows-nat](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-nat)
+* [201-vm-vmss-orchestrator](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-vmss-orchestrator)
 * [201-vnet-2subnets-service-endpoints-storage-integration](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vnet-2subnets-service-endpoints-storage-integration)
 * [201-vsts-cloudloadtest-rig-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vsts-cloudloadtest-rig-existing-vnet)
 * [201-zerto-zca](https://github.com/Azure/azure-quickstart-templates/tree/master/201-zerto-zca)
@@ -3637,6 +3882,7 @@
 * [301-jenkins-aptly-spinnaker-vmss](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-aptly-spinnaker-vmss)
 * [301-multi-tier-loadbalancing](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-loadbalancing)
 * [301-multi-tier-service-networking](https://github.com/Azure/azure-quickstart-templates/tree/master/301-multi-tier-service-networking)
+* [301-spinnaker-vmss-or-aks](https://github.com/Azure/azure-quickstart-templates/tree/master/301-spinnaker-vmss-or-aks)
 * [301-vm-sql-full-autobackup-autopatching-keyvault](https://github.com/Azure/azure-quickstart-templates/tree/master/301-vm-sql-full-autobackup-autopatching-keyvault)
 * [301-web-app-diagnostics-logs-blob-container](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-diagnostics-logs-blob-container)
 * [301-web-app-sql-docdb-search](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-sql-docdb-search)
@@ -3644,6 +3890,7 @@
 * [ansible-advancedlinux](https://github.com/Azure/azure-quickstart-templates/tree/master/ansible-advancedlinux)
 * [ansible-tower-rhel](https://github.com/Azure/azure-quickstart-templates/tree/master/ansible-tower-rhel)
 * [apache2-on-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/apache2-on-ubuntu-vm)
+* [arm-template-retrieve-azure-storage-access-keys](https://github.com/Azure/azure-quickstart-templates/tree/master/arm-template-retrieve-azure-storage-access-keys)
 * [artifactory-enterprise](https://github.com/Azure/azure-quickstart-templates/tree/master/artifactory-enterprise)
 * [barracuda-waf-iis](https://github.com/Azure/azure-quickstart-templates/tree/master/barracuda-waf-iis)
 * [bitcore-centos-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/bitcore-centos-vm)
@@ -3654,12 +3901,9 @@
 * [centos-singularity](https://github.com/Azure/azure-quickstart-templates/tree/master/centos-singularity)
 * [chef-ha-cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-ha-cluster)
 * [chef-json-parameters-linux-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/chef-json-parameters-linux-vm)
-* [cisco-csr-1000v](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v)
-* [cisco-csr-1000v-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-4-nic)
-* [cisco-csr-1000v-existing-vnet](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet)
-* [cisco-csr-1000v-existing-vnet-4-nic](https://github.com/Azure/azure-quickstart-templates/tree/master/cisco-csr-1000v-existing-vnet-4-nic)
 * [cloudlens-moloch-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-moloch-ubuntu)
 * [cloudlens-suricata-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/cloudlens-suricata-ubuntu)
+* [cohesive-vns3-free-multiclient-overlay-linux](https://github.com/Azure/azure-quickstart-templates/tree/master/cohesive-vns3-free-multiclient-overlay-linux)
 * [concourse-ci](https://github.com/Azure/azure-quickstart-templates/tree/master/concourse-ci)
 * [consul-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/consul-on-ubuntu)
 * [coreos-with-fleet-multivm](https://github.com/Azure/azure-quickstart-templates/tree/master/coreos-with-fleet-multivm)
@@ -3722,7 +3966,6 @@
 * [openchain-blockchain-coinprism](https://github.com/Azure/azure-quickstart-templates/tree/master/openchain-blockchain-coinprism)
 * [openedx-fullstack-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openedx-fullstack-ubuntu)
 * [openedx-scalable-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openedx-scalable-ubuntu)
-* [openjdk-tomcat-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/openjdk-tomcat-ubuntu-vm)
 * [openldap-cluster-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openldap-cluster-ubuntu)
 * [openldap-singlevm-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/openldap-singlevm-ubuntu)
 * [opensis-cluster-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/opensis-cluster-ubuntu)
@@ -3739,6 +3982,7 @@
 * [radium-blockchain-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/radium-blockchain-ubuntu)
 * [rds-deployment](https://github.com/Azure/azure-quickstart-templates/tree/master/rds-deployment)
 * [rhel-3tier-iaas](https://github.com/Azure/azure-quickstart-templates/tree/master/rhel-3tier-iaas)
+* [ros-vm-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/ros-vm-windows)
 * [sap-2-tier-marketplace-image](https://github.com/Azure/azure-quickstart-templates/tree/master/sap-2-tier-marketplace-image)
 * [sas-viya](https://github.com/Azure/azure-quickstart-templates/tree/master/sas-viya)
 * [scrapy-on-ubuntu](https://github.com/Azure/azure-quickstart-templates/tree/master/scrapy-on-ubuntu)
@@ -3783,6 +4027,11 @@
 * [101-storage-blob-container](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-blob-container)
 * [101-storage-multi-blob-container](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-multi-blob-container)
 * [301-web-app-diagnostics-logs-blob-container](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-diagnostics-logs-blob-container)
+
+## Microsoft.Storage/storageAccounts/fileServices/shares
+
+* [101-storage-file-share](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-file-share)
+* [101-storage-multi-file-share](https://github.com/Azure/azure-quickstart-templates/tree/master/101-storage-multi-file-share)
 
 ## Microsoft.StreamAnalytics/StreamingJobs
 
@@ -3831,6 +4080,7 @@
 * [201-logic-app-as2-send-receive](https://github.com/Azure/azure-quickstart-templates/tree/master/201-logic-app-as2-send-receive)
 * [201-logic-app-b2b-disaster-recovery-replication](https://github.com/Azure/azure-quickstart-templates/tree/master/201-logic-app-b2b-disaster-recovery-replication)
 * [201-logic-app-correlation-using-servicebus](https://github.com/Azure/azure-quickstart-templates/tree/master/201-logic-app-correlation-using-servicebus)
+* [arm-template-retrieve-azure-storage-access-keys](https://github.com/Azure/azure-quickstart-templates/tree/master/arm-template-retrieve-azure-storage-access-keys)
 
 ## Microsoft.Web/hostingEnvironments
 
@@ -3845,6 +4095,7 @@
 
 ## Microsoft.Web/serverfarms
 
+* [101-app-function](https://github.com/Azure/azure-quickstart-templates/tree/master/101-app-function)
 * [101-create-ase-with-webapp](https://github.com/Azure/azure-quickstart-templates/tree/master/101-create-ase-with-webapp)
 * [101-function-app-create-dedicated](https://github.com/Azure/azure-quickstart-templates/tree/master/101-function-app-create-dedicated)
 * [101-function-app-create-dynamic](https://github.com/Azure/azure-quickstart-templates/tree/master/101-function-app-create-dynamic)
@@ -3855,12 +4106,17 @@
 * [101-webapp-basic-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-basic-windows)
 * [101-webapp-custom-deployment-slots](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-custom-deployment-slots)
 * [101-webapp-linux-airflow-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-airflow-postgresql)
+* [101-webapp-linux-django](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-django)
+* [101-webapp-linux-flask](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-flask)
 * [101-webapp-linux-managed-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-managed-mysql)
 * [101-webapp-linux-managed-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-managed-postgresql)
+* [101-webapp-linux-node](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-node)
+* [101-webapp-linux-sonarqube-azuresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-azuresql)
 * [101-webapp-linux-sonarqube-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-mysql)
 * [101-webapp-linux-sonarqube-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-postgresql)
 * [101-webapp-managed-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-managed-mysql)
 * [101-webapp-managed-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-managed-postgresql)
+* [101-webapp-windows-ASPNET](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-windows-ASPNET)
 * [101-webapp-with-golang](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-with-golang)
 * [201-alert-to-slack-with-logic-app](https://github.com/Azure/azure-quickstart-templates/tree/master/201-alert-to-slack-with-logic-app)
 * [201-application-gateway-webapp-iprestriction](https://github.com/Azure/azure-quickstart-templates/tree/master/201-application-gateway-webapp-iprestriction)
@@ -3881,6 +4137,7 @@
 * [201-web-app-python](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-python)
 * [201-web-app-redis-cache-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-redis-cache-sql-database)
 * [201-web-app-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-sql-database)
+* [201-web-app-with-app-gateway-v2](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-with-app-gateway-v2)
 * [201-web-app-with-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-with-redis-cache)
 * [301-web-app-diagnostics-logs-blob-container](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-diagnostics-logs-blob-container)
 * [301-web-app-sql-docdb-search](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-sql-docdb-search)
@@ -3890,17 +4147,18 @@
 * [e-shop-website-with-ilb-ase](https://github.com/Azure/azure-quickstart-templates/tree/master/e-shop-website-with-ilb-ase)
 * [gobuffalo](https://github.com/Azure/azure-quickstart-templates/tree/master/gobuffalo)
 * [jenkins-cicd-webapp](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-cicd-webapp)
+* [kentico-mvc-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/kentico-mvc-environment)
 * [monitor-autoscale-webappserviceplan-simplemetricbased](https://github.com/Azure/azure-quickstart-templates/tree/master/monitor-autoscale-webappserviceplan-simplemetricbased)
 * [orchard-cms-video-portal](https://github.com/Azure/azure-quickstart-templates/tree/master/orchard-cms-video-portal)
 * [pubnub-eventhub-bridge](https://github.com/Azure/azure-quickstart-templates/tree/master/pubnub-eventhub-bridge)
 * [umbraco-cms-webapp-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-cms-webapp-redis-cache)
 * [umbraco-webapp-simple](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-webapp-simple)
-* [webapp-blob-connection](https://github.com/Azure/azure-quickstart-templates/tree/master/webapp-blob-connection)
 * [webapp-keyvault-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/webapp-keyvault-ssl)
 * [wordpress-app-service-mysql-inapp](https://github.com/Azure/azure-quickstart-templates/tree/master/wordpress-app-service-mysql-inapp)
 
 ## Microsoft.Web/sites
 
+* [101-app-function](https://github.com/Azure/azure-quickstart-templates/tree/master/101-app-function)
 * [101-app-service-certificate-standard](https://github.com/Azure/azure-quickstart-templates/tree/master/101-app-service-certificate-standard)
 * [101-app-service-certificate-wildcard](https://github.com/Azure/azure-quickstart-templates/tree/master/101-app-service-certificate-wildcard)
 * [101-create-ase-with-webapp](https://github.com/Azure/azure-quickstart-templates/tree/master/101-create-ase-with-webapp)
@@ -3914,12 +4172,17 @@
 * [101-webapp-basic-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-basic-windows)
 * [101-webapp-custom-deployment-slots](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-custom-deployment-slots)
 * [101-webapp-linux-airflow-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-airflow-postgresql)
+* [101-webapp-linux-django](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-django)
+* [101-webapp-linux-flask](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-flask)
 * [101-webapp-linux-managed-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-managed-mysql)
 * [101-webapp-linux-managed-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-managed-postgresql)
+* [101-webapp-linux-node](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-node)
+* [101-webapp-linux-sonarqube-azuresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-azuresql)
 * [101-webapp-linux-sonarqube-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-mysql)
 * [101-webapp-linux-sonarqube-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-postgresql)
 * [101-webapp-managed-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-managed-mysql)
 * [101-webapp-managed-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-managed-postgresql)
+* [101-webapp-windows-ASPNET](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-windows-ASPNET)
 * [101-webapp-with-golang](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-with-golang)
 * [201-application-gateway-webapp-iprestriction](https://github.com/Azure/azure-quickstart-templates/tree/master/201-application-gateway-webapp-iprestriction)
 * [201-asev2-ilb-with-web-app](https://github.com/Azure/azure-quickstart-templates/tree/master/201-asev2-ilb-with-web-app)
@@ -3940,6 +4203,7 @@
 * [201-web-app-python](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-python)
 * [201-web-app-redis-cache-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-redis-cache-sql-database)
 * [201-web-app-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-sql-database)
+* [201-web-app-with-app-gateway-v2](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-with-app-gateway-v2)
 * [201-web-app-with-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-with-redis-cache)
 * [301-web-app-diagnostics-logs-blob-container](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-diagnostics-logs-blob-container)
 * [301-web-app-sql-docdb-search](https://github.com/Azure/azure-quickstart-templates/tree/master/301-web-app-sql-docdb-search)
@@ -3949,11 +4213,11 @@
 * [e-shop-website-with-ilb-ase](https://github.com/Azure/azure-quickstart-templates/tree/master/e-shop-website-with-ilb-ase)
 * [gobuffalo](https://github.com/Azure/azure-quickstart-templates/tree/master/gobuffalo)
 * [jenkins-cicd-webapp](https://github.com/Azure/azure-quickstart-templates/tree/master/jenkins-cicd-webapp)
+* [kentico-mvc-environment](https://github.com/Azure/azure-quickstart-templates/tree/master/kentico-mvc-environment)
 * [orchard-cms-video-portal](https://github.com/Azure/azure-quickstart-templates/tree/master/orchard-cms-video-portal)
 * [pubnub-eventhub-bridge](https://github.com/Azure/azure-quickstart-templates/tree/master/pubnub-eventhub-bridge)
 * [umbraco-cms-webapp-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-cms-webapp-redis-cache)
 * [umbraco-webapp-simple](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-webapp-simple)
-* [webapp-blob-connection](https://github.com/Azure/azure-quickstart-templates/tree/master/webapp-blob-connection)
 * [webapp-keyvault-ssl](https://github.com/Azure/azure-quickstart-templates/tree/master/webapp-keyvault-ssl)
 * [wordpress-app-service-mysql-inapp](https://github.com/Azure/azure-quickstart-templates/tree/master/wordpress-app-service-mysql-inapp)
 
@@ -3962,6 +4226,7 @@
 * [101-function-app-create-dedicated](https://github.com/Azure/azure-quickstart-templates/tree/master/101-function-app-create-dedicated)
 * [101-mobile-app-create](https://github.com/Azure/azure-quickstart-templates/tree/master/101-mobile-app-create)
 * [101-webapp-linux-airflow-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-airflow-postgresql)
+* [101-webapp-linux-sonarqube-azuresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-azuresql)
 * [101-webapp-linux-sonarqube-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-mysql)
 * [101-webapp-linux-sonarqube-postgresql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-linux-sonarqube-postgresql)
 * [101-webapp-managed-mysql](https://github.com/Azure/azure-quickstart-templates/tree/master/101-webapp-managed-mysql)
@@ -3971,7 +4236,6 @@
 * [201-logic-app-custom-api](https://github.com/Azure/azure-quickstart-templates/tree/master/201-logic-app-custom-api)
 * [201-web-app-blob-connection](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-blob-connection)
 * [201-web-app-java-tomcat](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-java-tomcat)
-* [201-web-app-python](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-python)
 * [201-web-app-redis-cache-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-redis-cache-sql-database)
 * [201-web-app-sql-database](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-sql-database)
 * [201-web-app-with-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-with-redis-cache)
@@ -3983,7 +4247,6 @@
 * [pubnub-eventhub-bridge](https://github.com/Azure/azure-quickstart-templates/tree/master/pubnub-eventhub-bridge)
 * [umbraco-cms-webapp-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-cms-webapp-redis-cache)
 * [umbraco-webapp-simple](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-webapp-simple)
-* [webapp-blob-connection](https://github.com/Azure/azure-quickstart-templates/tree/master/webapp-blob-connection)
 * [wordpress-app-service-mysql-inapp](https://github.com/Azure/azure-quickstart-templates/tree/master/wordpress-app-service-mysql-inapp)
 
 ## Microsoft.Web/sites/domainOwnershipIdentifiers
@@ -3997,7 +4260,6 @@
 * [orchard-cms-video-portal](https://github.com/Azure/azure-quickstart-templates/tree/master/orchard-cms-video-portal)
 * [umbraco-cms-webapp-redis-cache](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-cms-webapp-redis-cache)
 * [umbraco-webapp-simple](https://github.com/Azure/azure-quickstart-templates/tree/master/umbraco-webapp-simple)
-* [webapp-blob-connection](https://github.com/Azure/azure-quickstart-templates/tree/master/webapp-blob-connection)
 
 ## Microsoft.Web/sites/functions
 
